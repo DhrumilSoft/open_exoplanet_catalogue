@@ -39,6 +39,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/20</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-		</planet>
+		<radius>99999</radius>
+    </planet>
 	</star>
 </system>

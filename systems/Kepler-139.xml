@@ -37,7 +37,7 @@
 			<name>KOI-316.02</name>
 			<name>KIC 8008067 c</name>
 			<name>KIC 8008067.02</name>
-			<radius errorminus="0.06288" errorplus="0.06288">0.30802</radius>
+			<radius errorminus="0.06288" errorplus="0.06288">99999</radius>
 			<period errorminus=".001720" errorplus="0.001720">157.072878</period>
 			<transittime errorminus="0.0044000" errorplus="0.0044000">2455314.2626600</transittime>
 			<list>Confirmed planets</list>
@@ -46,6 +46,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<temperature>342134</temperature>
+    </planet>
 	</star>
 </system>
