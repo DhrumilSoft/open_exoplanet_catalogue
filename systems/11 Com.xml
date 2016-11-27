@@ -37,6 +37,18 @@
 			<lastupdate>15/09/20</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
-	</star>
+	<planet>
+      <name>alright</name>
+      <eccentricity>0.0146</eccentricity>
+      <inclination>87.4</inclination>
+      <mass>0.376</mass>
+      <periastron>330</periastron>
+      <period>57.011</period>
+      <semimajoraxis>0.2799</semimajoraxis>
+      <temperature>455</temperature>
+      <temperaturemax>14</temperaturemax>
+      <temperaturemin>-13</temperaturemin>
+</planet>
+  </star>
 	<videolink>http://youtu.be/qyJXJJDrEDo</videolink>
 </system>

@@ -13,7 +13,7 @@
 		<name>KOI-401</name>
 		<name>KIC 3217264</name>
 		<temperature errorminus="100" errorplus="100">5381</temperature>
-		<radius errorminus=".136" errorplus="0.136">0.953</radius>
+		<radius errorminus=".136" errorplus="0.136">0.9590909</radius>
 		<mass errorminus="0.0540" errorplus="0.0540">0.9090</mass>
 		<planet>
 			<name>Kepler-149 b</name>
