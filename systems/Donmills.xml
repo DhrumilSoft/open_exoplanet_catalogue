@@ -1,0 +1,35 @@
+<system>
+  <name>Donmills</name>
+  <declination>+42d36m15.0s</declination>
+  <distance>855</distance>
+  <rightascension>19h17m04.50s</rightascension>
+  <star>
+    <name>Donmills</name>
+    <age>9.7</age>
+    <magH>13.436</magH>
+    <magHmax>0.02</magHmax>
+    <magHmin>0.02</magHmin>
+    <magJ>13.814</magJ>
+    <magJmax>0.025</magJmax>
+    <magJmin>0.025</magJmin>
+    <magK>13.347</magK>
+    <magKmax>0.028</magKmax>
+    <magKmin>0.028</magKmin>
+    <mass>0.9</mass>
+    <metallicity>[M/H]</metallicity>
+    <radius>0.79</radius>
+    <temperature>5309</temperature>
+    <planet>
+      <name>DonMate</name>
+      <eccentricity>0.0146</eccentricity>
+      <inclination>87.4</inclination>
+      <mass>0.376</mass>
+      <periastron>330</periastron>
+      <period>57.011</period>
+      <semimajoraxis>0.2799</semimajoraxis>
+      <temperature>455</temperature>
+      <temperaturemax>14</temperaturemax>
+      <temperaturemin>-13</temperaturemin>
+</planet>
+</star>
+</system>
