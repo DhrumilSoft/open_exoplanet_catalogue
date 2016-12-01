@@ -1,0 +1,24 @@
+<system>
+    <name>WASP-136</name>
+    <declination>-9 56 35</declination>
+    <distance>164.0</distance>
+    <rightascension>0 0 13</rightascension>
+    <star>
+        <name>WASP-136</name>
+        <age>3.62</age>
+        <magV>9.98</magV>
+        <mass>1.51</mass>
+        <radius>1.38</radius>
+        <temperature>6260.0</temperature>
+        <planet>
+            <name>WASP-136 b</name>
+            <impactparameter>0.59</impactparameter>
+            <inclination>84.7</inclination>
+            <mass>1.51</mass>
+            <period>5.215357</period>
+            <radius>1.38</radius>
+            <semimajoraxis>0.0661</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

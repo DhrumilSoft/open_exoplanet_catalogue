@@ -1,0 +1,31 @@
+<system>
+    <name>HD 87646</name>
+    <declination>+17d53m42.4s</declination>
+    <distance>73.58</distance>
+    <rightascension>10h06m40.77s</rightascension>
+    <star>
+        <name>HD 87646</name>
+        <magH>6.612</magH>
+        <magHmax>0.021</magHmax>
+        <magHmin>0.021</magHmin>
+        <magJ>6.897</magJ>
+        <magJmax>0.021</magJmax>
+        <magJmin>0.021</magJmin>
+        <magK>6.536</magK>
+        <magKmax>0.018</magKmax>
+        <magKmin>0.018</magKmin>
+        <magV>8.000</magV>
+        <mass>1.12</mass>
+        <metallicity>[Fe/H]</metallicity>
+        <radius>1.55</radius>
+        <temperature>5770.00</temperature>
+        <planet>
+            <name>HD 87646 b</name>
+            <eccentricity>0.050000</eccentricity>
+            <periastron>298.0000</periastron>
+            <period>13.48100000</period>
+            <semimajoraxis>0.117000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

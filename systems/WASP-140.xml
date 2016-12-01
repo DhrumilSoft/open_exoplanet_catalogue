@@ -1,0 +1,28 @@
+<system>
+    <name>WASP-140</name>
+    <declination>-20 27 4</declination>
+    <distance>180.0</distance>
+    <rightascension>1 40 16</rightascension>
+    <star>
+        <name>WASP-140</name>
+        <age>1.6</age>
+        <magV>11.1</magV>
+        <mass>0.9</mass>
+        <metallicity>0.12</metallicity>
+        <radius>0.87</radius>
+        <spectraltype>K0</spectraltype>
+        <temperature>5260.0</temperature>
+        <planet>
+            <name>WASP-140 b</name>
+            <eccentricity>0.047</eccentricity>
+            <impactparameter>0.99</impactparameter>
+            <inclination>83.3</inclination>
+            <mass>2.44</mass>
+            <periastron>356.0</periastron>
+            <period>2.2359835</period>
+            <radius>1.44</radius>
+            <semimajoraxis>0.0323</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
