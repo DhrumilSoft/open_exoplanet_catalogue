@@ -1,0 +1,30 @@
+<system>
+    <name>K2-87</name>
+    <declination>+18d49m38.7s</declination>
+    <rightascension>04h24m56.69s</rightascension>
+    <star>
+        <name>K2-87</name>
+        <magH>11.359</magH>
+        <magHmax>0.022</magHmax>
+        <magHmin>0.022</magHmin>
+        <magJ>11.811</magJ>
+        <magJmax>0.020</magJmax>
+        <magJmin>0.020</magJmin>
+        <magK>11.197</magK>
+        <magKmax>0.019</magKmax>
+        <magKmin>0.019</magKmin>
+        <magV>14.134</magV>
+        <magVmax>0.040</magVmax>
+        <magVmin>0.040</magVmin>
+        <mass>0.95</mass>
+        <radius>0.93</radius>
+        <temperature>5406.00</temperature>
+        <planet>
+            <name>K2-87 b</name>
+            <period>9.72739000</period>
+            <radius>0.410</radius>
+            <semimajoraxis>0.087600</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

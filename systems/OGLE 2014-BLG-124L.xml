@@ -1,0 +1,16 @@
+<system>
+    <name>OGLE 2014-BLG-124L</name>
+    <declination>-28d23m46.5s</declination>
+    <distance>4100.00</distance>
+    <rightascension>18h02m29.21s</rightascension>
+    <star>
+        <name>OGLE 2014-BLG-124L</name>
+        <mass>0.71</mass>
+        <planet>
+            <name>OGLE 2014-BLG-124L b</name>
+            <mass>0.51000</mass>
+            <semimajoraxis>3.110000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

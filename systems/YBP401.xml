@@ -1,0 +1,22 @@
+<system>
+    <name>YBP401</name>
+    <declination>+12 40 16</declination>
+    <distance>843.0</distance>
+    <rightascension>1 29 33</rightascension>
+    <star>
+        <name>YBP401</name>
+        <age>4.0</age>
+        <magV>13.7</magV>
+        <mass>1.14</mass>
+        <spectraltype>F9V</spectraltype>
+        <temperature>6165.0</temperature>
+        <planet>
+            <name>YBP401 b</name>
+            <eccentricity>0.15</eccentricity>
+            <mass>0.46</mass>
+            <periastron>330.17</periastron>
+            <period>4.087</period>
+        </planet>
+    </star>
+</system>
+

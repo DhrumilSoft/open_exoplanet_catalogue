@@ -1,0 +1,33 @@
+<system>
+    <name>HD 47366</name>
+    <declination>-13 59 6</declination>
+    <distance>80.0</distance>
+    <rightascension>1 6 17</rightascension>
+    <star>
+        <name>HD 47366</name>
+        <age>1.61</age>
+        <magV>6.11</magV>
+        <mass>1.81</mass>
+        <metallicity>-0.02</metallicity>
+        <radius>7.3</radius>
+        <spectraltype>K1III</spectraltype>
+        <temperature>4866.0</temperature>
+        <planet>
+            <name>HD 47366 b</name>
+            <eccentricity>0.089</eccentricity>
+            <mass>1.75</mass>
+            <periastron>100.0</periastron>
+            <period>363.3</period>
+            <semimajoraxis>1.214</semimajoraxis>
+        </planet>
+        <planet>
+            <name>HD 47366 c</name>
+            <eccentricity>0.278</eccentricity>
+            <mass>1.86</mass>
+            <periastron>132.0</periastron>
+            <period>684.7</period>
+            <semimajoraxis>1.853</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

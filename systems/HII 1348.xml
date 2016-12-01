@@ -1,0 +1,17 @@
+<system>
+    <name>HII 1348</name>
+    <declination>+24 23 27</declination>
+    <distance>127.0</distance>
+    <rightascension>1 38 53</rightascension>
+    <star>
+        <name>HII 1348</name>
+        <magV>12.8</magV>
+        <spectraltype>K5V</spectraltype>
+        <planet>
+            <name>HII 1348 b</name>
+            <mass>59.0</mass>
+            <semimajoraxis>138.0</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

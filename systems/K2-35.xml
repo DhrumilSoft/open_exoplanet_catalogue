@@ -1,0 +1,47 @@
+<system>
+    <name>K2-35</name>
+    <declination>+01d17m09.4s</declination>
+    <rightascension>11h20m24.74s</rightascension>
+    <star>
+        <name>K2-35</name>
+        <magH>11.564</magH>
+        <magHmax>0.024</magHmax>
+        <magHmin>0.024</magHmin>
+        <magJ>12.144</magJ>
+        <magJmax>0.024</magJmax>
+        <magJmin>0.024</magJmin>
+        <magK>11.423</magK>
+        <magKmax>0.021</magKmax>
+        <magKmin>0.021</magKmin>
+        <magV>14.350</magV>
+        <magVmax>0.060</magVmax>
+        <magVmin>0.060</magVmin>
+        <mass>0.76</mass>
+        <metallicity>[Fe/H]</metallicity>
+        <radius>0.72</radius>
+        <temperature>4680.00</temperature>
+        <planet>
+            <name>K2-35 c</name>
+            <impactparameter>0.6600</impactparameter>
+            <inclination>87.850</inclination>
+            <period>5.60912000</period>
+            <radius>0.186</radius>
+            <semimajoraxis>0.056400</semimajoraxis>
+            <temperature>737</temperature>
+            <temperaturemax>22</temperaturemax>
+            <temperaturemin>-22</temperaturemin>
+        </planet>
+        <planet>
+            <name>K2-35 b</name>
+            <impactparameter>0.5600</impactparameter>
+            <inclination>86.100</inclination>
+            <period>2.39984000</period>
+            <radius>0.125</radius>
+            <semimajoraxis>0.032000</semimajoraxis>
+            <temperature>979</temperature>
+            <temperaturemax>29</temperaturemax>
+            <temperaturemin>-29</temperaturemin>
+        </planet>
+    </star>
+</system>
+

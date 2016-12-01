@@ -1,0 +1,30 @@
+<system>
+    <name>K2-48</name>
+    <declination>+03d16m20.7s</declination>
+    <rightascension>11h44m29.65s</rightascension>
+    <star>
+        <name>K2-48</name>
+        <magH>11.903</magH>
+        <magHmax>0.025</magHmax>
+        <magHmin>0.025</magHmin>
+        <magJ>12.430</magJ>
+        <magJmax>0.021</magJmax>
+        <magJmin>0.021</magJmin>
+        <magK>11.838</magK>
+        <magKmax>0.027</magKmax>
+        <magKmin>0.027</magKmin>
+        <magV>14.277</magV>
+        <magVmax>0.030</magVmax>
+        <magVmin>0.030</magVmin>
+        <mass>0.77</mass>
+        <radius>0.73</radius>
+        <temperature>4899.00</temperature>
+        <planet>
+            <name>K2-48 b</name>
+            <period>20.50650000</period>
+            <radius>0.200</radius>
+            <semimajoraxis>0.134400</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

@@ -1,0 +1,27 @@
+<system>
+    <name>WISE 0458+6434 A</name>
+    <declination>+65 35 53</declination>
+    <distance>10.5</distance>
+    <rightascension>1 50 49</rightascension>
+    <star>
+        <name>WISE 0458+6434 A</name>
+        <age>1.0</age>
+        <alternatenames>WISEPC J045853.90+643451.9A, WISEP J045853.90+643452.6A, WISE J0458+6434A</alternatenames>
+        <magH>17.77</magH>
+        <magJ>17.5</magJ>
+        <mass>0.019</mass>
+        <radius>0.098</radius>
+        <spectraltype>T 8.5</spectraltype>
+        <temperature>730.0</temperature>
+        <planet>
+            <name>WISE 0458+6434 b</name>
+            <alternatenames>WISE J0458+6434B, WISEP J045853.90+643451.9B </alternatenames>
+            <mass>13.0</mass>
+            <period>25800.0</period>
+            <radius>1.009</radius>
+            <semimajoraxis>5.0</semimajoraxis>
+            <temperature>590.0</temperature>
+        </planet>
+    </star>
+</system>
+

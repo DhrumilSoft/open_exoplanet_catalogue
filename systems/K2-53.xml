@@ -1,0 +1,27 @@
+<system>
+    <name>K2-53</name>
+    <declination>-20d24m01.9s</declination>
+    <rightascension>16h16m34.03s</rightascension>
+    <star>
+        <name>K2-53</name>
+        <magH>9.826</magH>
+        <magHmax>0.024</magHmax>
+        <magHmin>0.024</magHmin>
+        <magJ>10.306</magJ>
+        <magJmax>0.024</magJmax>
+        <magJmin>0.024</magJmin>
+        <magK>9.664</magK>
+        <magKmax>0.021</magKmax>
+        <magKmin>0.021</magKmin>
+        <mass>0.83</mass>
+        <radius>0.85</radius>
+        <temperature>5269.00</temperature>
+        <planet>
+            <name>K2-53 b</name>
+            <period>12.20540000</period>
+            <radius>0.223</radius>
+            <semimajoraxis>0.097500</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

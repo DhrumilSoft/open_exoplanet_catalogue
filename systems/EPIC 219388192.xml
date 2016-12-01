@@ -1,0 +1,29 @@
+<system>
+    <name>EPIC 219388192</name>
+    <declination>-17 52 18</declination>
+    <distance>300.0</distance>
+    <rightascension>3 13 56</rightascension>
+    <star>
+        <name>EPIC 219388192</name>
+        <age>3.9</age>
+        <alternatenames>2MASS J19173402-1652177</alternatenames>
+        <magV>12.5</magV>
+        <mass>0.99</mass>
+        <metallicity>0.03</metallicity>
+        <radius>1.01</radius>
+        <spectraltype>G</spectraltype>
+        <temperature>5850.0</temperature>
+        <planet>
+            <name>EPIC 219388192 b</name>
+            <eccentricity>0.1929</eccentricity>
+            <impactparameter>0.0</impactparameter>
+            <inclination>90.0</inclination>
+            <mass>36.5</mass>
+            <periastron>345.9</periastron>
+            <period>5.292569</period>
+            <radius>0.937</radius>
+            <semimajoraxis>0.0593</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

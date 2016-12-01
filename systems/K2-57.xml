@@ -1,0 +1,30 @@
+<system>
+    <name>K2-57</name>
+    <declination>-14d04m11.6s</declination>
+    <rightascension>22h50m46.01s</rightascension>
+    <star>
+        <name>K2-57</name>
+        <magH>11.761</magH>
+        <magHmax>0.021</magHmax>
+        <magHmin>0.021</magHmin>
+        <magJ>12.350</magJ>
+        <magJmax>0.024</magJmax>
+        <magJmin>0.024</magJmin>
+        <magK>11.645</magK>
+        <magKmax>0.023</magKmax>
+        <magKmin>0.023</magKmin>
+        <magV>14.501</magV>
+        <magVmax>0.050</magVmax>
+        <magVmin>0.050</magVmin>
+        <mass>0.68</mass>
+        <radius>0.62</radius>
+        <temperature>4434.00</temperature>
+        <planet>
+            <name>K2-57 b</name>
+            <period>9.00630000</period>
+            <radius>0.187</radius>
+            <semimajoraxis>0.074600</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

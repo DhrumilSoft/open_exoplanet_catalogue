@@ -1,0 +1,18 @@
+<system>
+    <name>OGLE-2005-169L</name>
+    <declination>-31 44 57</declination>
+    <distance>4100.0</distance>
+    <rightascension>3 1 1</rightascension>
+    <star>
+        <name>OGLE-2005-169L</name>
+        <magI>20.4</magI>
+        <mass>0.69</mass>
+        <spectraltype>K5</spectraltype>
+        <planet>
+            <name>OGLE-2005-169L b</name>
+            <mass>0.0444</mass>
+            <semimajoraxis>4.0</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
