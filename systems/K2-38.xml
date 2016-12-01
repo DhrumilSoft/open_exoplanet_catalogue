@@ -1,0 +1,49 @@
+<system>
+    <name>K2-38</name>
+    <declination>-23d11m21.4s</declination>
+    <rightascension>16h00m08.06s</rightascension>
+    <star>
+        <name>K2-38</name>
+        <magH>9.600</magH>
+        <magHmax>0.026</magHmax>
+        <magHmin>0.026</magHmin>
+        <magJ>9.911</magJ>
+        <magJmax>0.024</magJmax>
+        <magJmin>0.024</magJmin>
+        <magK>9.470</magK>
+        <magKmax>0.021</magKmax>
+        <magKmin>0.021</magKmin>
+        <magV>11.390</magV>
+        <magVmax>0.030</magVmax>
+        <magVmin>0.030</magVmin>
+        <mass>1.07</mass>
+        <metallicity>[Fe/H]</metallicity>
+        <radius>1.10</radius>
+        <temperature>5757.00</temperature>
+        <planet>
+            <name>K2-38 b</name>
+            <impactparameter>0.4800</impactparameter>
+            <inclination>87.280</inclination>
+            <mass>0.03776</mass>
+            <period>4.01593000</period>
+            <radius>0.138</radius>
+            <semimajoraxis>0.050600</semimajoraxis>
+            <temperature>1184</temperature>
+            <temperaturemax>51</temperaturemax>
+            <temperaturemin>-51</temperaturemin>
+        </planet>
+        <planet>
+            <name>K2-38 c</name>
+            <impactparameter>0.6400</impactparameter>
+            <inclination>88.610</inclination>
+            <mass>0.03115</mass>
+            <period>10.56103000</period>
+            <radius>0.216</radius>
+            <semimajoraxis>0.096400</semimajoraxis>
+            <temperature>858</temperature>
+            <temperaturemax>37</temperaturemax>
+            <temperaturemin>-37</temperaturemin>
+        </planet>
+    </star>
+</system>
+

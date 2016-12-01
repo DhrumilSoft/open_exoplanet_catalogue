@@ -1,0 +1,24 @@
+<system>
+    <name>HD 86950</name>
+    <declination>-17 20 59</declination>
+    <distance>169.0</distance>
+    <rightascension>2 40 16</rightascension>
+    <star>
+        <name>HD 86950</name>
+        <magV>7.46</magV>
+        <mass>1.66</mass>
+        <metallicity>0.04</metallicity>
+        <radius>8.8</radius>
+        <spectraltype>K1 III</spectraltype>
+        <temperature>4805.0</temperature>
+        <planet>
+            <name>HD 86950</name>
+            <eccentricity>0.17</eccentricity>
+            <mass>3.6</mass>
+            <periastron>243.0</periastron>
+            <period>1270.0</period>
+            <semimajoraxis>2.72</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

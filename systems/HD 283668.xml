@@ -1,0 +1,22 @@
+<system>
+    <name>HD 283668</name>
+    <declination>+24 27 41</declination>
+    <distance>42.3</distance>
+    <rightascension>1 45 39</rightascension>
+    <star>
+        <name>HD 283668</name>
+        <magV>9.44</magV>
+        <mass>0.68</mass>
+        <metallicity>-0.75</metallicity>
+        <temperature>4845.0</temperature>
+        <planet>
+            <name>HD 283668 b</name>
+            <eccentricity>0.577</eccentricity>
+            <mass>53.4</mass>
+            <periastron>265.4</periastron>
+            <period>2558.0</period>
+            <semimajoraxis>3.3</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

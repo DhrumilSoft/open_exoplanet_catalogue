@@ -1,0 +1,18 @@
+<system>
+    <name>PSR B1957+20</name>
+    <declination>+21 48 15</declination>
+    <distance>1530.0</distance>
+    <rightascension>3 20 56</rightascension>
+    <star>
+        <name>PSR B1957+20</name>
+        <age>2.2</age>
+        <mass>1.4</mass>
+        <spectraltype>PSR</spectraltype>
+        <planet>
+            <name>PSR B1957+20 b</name>
+            <mass>22.0</mass>
+            <period>0.38</period>
+        </planet>
+    </star>
+</system>
+

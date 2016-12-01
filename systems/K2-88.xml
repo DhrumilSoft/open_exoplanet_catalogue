@@ -1,0 +1,30 @@
+<system>
+    <name>K2-88</name>
+    <declination>+19d07m12.6s</declination>
+    <rightascension>03h39m00.38s</rightascension>
+    <star>
+        <name>K2-88</name>
+        <magH>11.456</magH>
+        <magHmax>0.019</magHmax>
+        <magHmin>0.019</magHmin>
+        <magJ>12.037</magJ>
+        <magJmax>0.021</magJmax>
+        <magJmin>0.021</magJmin>
+        <magK>11.240</magK>
+        <magKmax>0.016</magKmax>
+        <magKmin>0.016</magKmin>
+        <magV>15.476</magV>
+        <magVmax>0.053</magVmax>
+        <magVmin>0.053</magVmin>
+        <mass>0.26</mass>
+        <radius>0.26</radius>
+        <temperature>3537.00</temperature>
+        <planet>
+            <name>K2-88 b</name>
+            <period>4.61220000</period>
+            <radius>0.110</radius>
+            <semimajoraxis>0.034500</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

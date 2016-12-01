@@ -1,0 +1,16 @@
+<system>
+    <name>OGLE 2011-BLG-265L</name>
+    <declination>-27d23m40.3s</declination>
+    <distance>4380.00</distance>
+    <rightascension>17h57m47.72s</rightascension>
+    <star>
+        <name>OGLE 2011-BLG-265L</name>
+        <mass>0.21</mass>
+        <planet>
+            <name>OGLE 2011-BLG-265L b</name>
+            <mass>0.88000</mass>
+            <semimajoraxis>1.890000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

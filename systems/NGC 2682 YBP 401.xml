@@ -1,0 +1,27 @@
+<system>
+    <name>NGC 2682 YBP 401</name>
+    <declination>+11d40m15.7s</declination>
+    <rightascension>08h51m19.05s</rightascension>
+    <star>
+        <name>NGC 2682 YBP 401</name>
+        <magH>12.376</magH>
+        <magHmax>0.020</magHmax>
+        <magHmin>0.020</magHmin>
+        <magJ>12.638</magJ>
+        <magJmax>0.018</magJmax>
+        <magJmin>0.018</magJmin>
+        <magK>12.337</magK>
+        <magKmax>0.022</magKmax>
+        <magKmin>0.022</magKmin>
+        <magV>13.700</magV>
+        <mass>1.14</mass>
+        <temperature>6165.00</temperature>
+        <planet>
+            <name>NGC 2682 YBP 401 b</name>
+            <eccentricity>0.150000</eccentricity>
+            <periastron>330.1700</periastron>
+            <period>4.08700000</period>
+        </planet>
+    </star>
+</system>
+

@@ -1,0 +1,24 @@
+<system>
+    <name>WASP-127</name>
+    <declination>-4 50 6</declination>
+    <rightascension>2 47 2</rightascension>
+    <star>
+        <name>WASP-127</name>
+        <age>11.41</age>
+        <magV>10.15</magV>
+        <mass>1.08</mass>
+        <radius>1.39</radius>
+        <spectraltype>G5</spectraltype>
+        <temperature>5620.0</temperature>
+        <planet>
+            <name>WASP-127 b</name>
+            <impactparameter>0.15</impactparameter>
+            <inclination>88.7</inclination>
+            <mass>0.18</mass>
+            <period>4.178062</period>
+            <radius>1.37</radius>
+            <semimajoraxis>0.052</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

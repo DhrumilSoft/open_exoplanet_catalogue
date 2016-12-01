@@ -1,0 +1,29 @@
+<system>
+    <name>HIP 68468</name>
+    <declination>-33 45 25</declination>
+    <distance>87.8</distance>
+    <rightascension>2 20 11</rightascension>
+    <star>
+        <name>HIP 68468</name>
+        <age>5.9</age>
+        <mass>1.05</mass>
+        <metallicity>0.065</metallicity>
+        <spectraltype>G3V</spectraltype>
+        <temperature>5857.0</temperature>
+        <planet>
+            <name>HIP 68468 c</name>
+            <eccentricity>0.04</eccentricity>
+            <mass>0.094</mass>
+            <period>194.0</period>
+            <semimajoraxis>0.665</semimajoraxis>
+        </planet>
+        <planet>
+            <name>HIP 68468 b</name>
+            <eccentricity>0.41</eccentricity>
+            <mass>0.011</mass>
+            <period>1.8372</period>
+            <semimajoraxis>0.029743</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

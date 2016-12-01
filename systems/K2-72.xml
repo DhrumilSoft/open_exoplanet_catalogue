@@ -1,0 +1,48 @@
+<system>
+    <name>K2-72</name>
+    <declination>-09d36m44.6s</declination>
+    <rightascension>22h18m29.27s</rightascension>
+    <star>
+        <name>K2-72</name>
+        <magH>11.122</magH>
+        <magHmax>0.021</magHmax>
+        <magHmin>0.021</magHmin>
+        <magJ>11.685</magJ>
+        <magJmax>0.023</magJmax>
+        <magJmin>0.023</magJmin>
+        <magK>10.962</magK>
+        <magKmax>0.021</magKmax>
+        <magKmin>0.021</magKmin>
+        <magV>15.309</magV>
+        <magVmax>0.050</magVmax>
+        <magVmin>0.050</magVmin>
+        <mass>0.22</mass>
+        <radius>0.23</radius>
+        <temperature>3497.00</temperature>
+        <planet>
+            <name>K2-72 d</name>
+            <period>7.75990000</period>
+            <radius>0.065</radius>
+            <semimajoraxis>0.046100</semimajoraxis>
+        </planet>
+        <planet>
+            <name>K2-72 b</name>
+            <period>5.57739000</period>
+            <radius>0.067</radius>
+            <semimajoraxis>0.037000</semimajoraxis>
+        </planet>
+        <planet>
+            <name>K2-72 e</name>
+            <period>24.16690000</period>
+            <radius>0.073</radius>
+            <semimajoraxis>0.098000</semimajoraxis>
+        </planet>
+        <planet>
+            <name>K2-72 c</name>
+            <period>15.18710000</period>
+            <radius>0.077</radius>
+            <semimajoraxis>0.072200</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
