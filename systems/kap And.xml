@@ -1,0 +1,32 @@
+<system>
+    <name>kap And</name>
+    <declination>+44d20m02.2s</declination>
+    <distance>52.03</distance>
+    <rightascension>23h40m24.51s</rightascension>
+    <star>
+        <name>kap And</name>
+        <age>0.030</age>
+        <magH>4.595</magH>
+        <magHmax>0.218</magHmax>
+        <magHmin>0.218</magHmin>
+        <magJ>4.624</magJ>
+        <magJmax>0.264</magJmax>
+        <magJmin>0.264</magJmin>
+        <magK>4.571</magK>
+        <magKmax>0.354</magKmax>
+        <magKmin>0.354</magKmin>
+        <magV>4.140</magV>
+        <mass>2.60</mass>
+        <metallicity>[M/H]</metallicity>
+        <temperature>10900.00</temperature>
+        <planet>
+            <name>kap And b</name>
+            <mass>13.61600</mass>
+            <semimajoraxis>55.000000</semimajoraxis>
+            <temperature>1900</temperature>
+            <temperaturemax>100</temperaturemax>
+            <temperaturemin>-200</temperaturemin>
+        </planet>
+    </star>
+</system>
+

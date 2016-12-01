@@ -1,0 +1,32 @@
+<system>
+    <name>psi Dra B</name>
+    <declination>+72d09m24.9s</declination>
+    <distance>22.16</distance>
+    <rightascension>17h41m58.10s</rightascension>
+    <star>
+        <name>psi Dra B</name>
+        <age>3.300</age>
+        <magH>4.590</magH>
+        <magHmax>0.036</magHmax>
+        <magHmin>0.036</magHmin>
+        <magJ>5.001</magJ>
+        <magJmax>0.250</magJmax>
+        <magJmin>0.250</magJmin>
+        <magK>4.527</magK>
+        <magKmax>0.022</magKmax>
+        <magKmin>0.022</magKmin>
+        <magV>5.699</magV>
+        <mass>1.19</mass>
+        <metallicity>[Fe/H]</metallicity>
+        <temperature>6212.00</temperature>
+        <planet>
+            <name>psi Dra B b</name>
+            <eccentricity>0.400000</eccentricity>
+            <massother>1.53000</massother>
+            <periastron>64.0000</periastron>
+            <period>3117.00000000</period>
+            <semimajoraxis>4.430000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

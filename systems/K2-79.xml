@@ -1,0 +1,30 @@
+<system>
+    <name>K2-79</name>
+    <declination>+13d31m09.7s</declination>
+    <rightascension>03h41m01.42s</rightascension>
+    <star>
+        <name>K2-79</name>
+        <magH>9.998</magH>
+        <magHmax>0.019</magHmax>
+        <magHmin>0.019</magHmin>
+        <magJ>10.358</magJ>
+        <magJmax>0.022</magJmax>
+        <magJmin>0.022</magJmin>
+        <magK>9.907</magK>
+        <magKmax>0.018</magKmax>
+        <magKmin>0.018</magKmin>
+        <magV>12.075</magV>
+        <magVmax>0.060</magVmax>
+        <magVmin>0.060</magVmin>
+        <mass>1.06</mass>
+        <radius>1.28</radius>
+        <temperature>5926.00</temperature>
+        <planet>
+            <name>K2-79 b</name>
+            <period>10.99573000</period>
+            <radius>0.329</radius>
+            <semimajoraxis>0.098700</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

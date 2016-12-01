@@ -1,0 +1,17 @@
+<system>
+    <name>OGLE 2007-BLG-349L A</name>
+    <declination>-26d25m19.0s</declination>
+    <distance>2760.00</distance>
+    <rightascension>18h05m24.43s</rightascension>
+    <star>
+        <name>OGLE 2007-BLG-349L A</name>
+        <mass>0.41</mass>
+        <planet>
+            <name>OGLE 2007-BLG-349L AB c</name>
+            <mass>0.25171</mass>
+            <period>2557.00000000</period>
+            <semimajoraxis>2.590000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

@@ -1,0 +1,30 @@
+<system>
+    <name>K2-63</name>
+    <declination>-12d03m58.9s</declination>
+    <rightascension>22h13m42.40s</rightascension>
+    <star>
+        <name>K2-63</name>
+        <magH>11.320</magH>
+        <magHmax>0.021</magHmax>
+        <magHmin>0.021</magHmin>
+        <magJ>11.606</magJ>
+        <magJmax>0.021</magJmax>
+        <magJmin>0.021</magJmin>
+        <magK>11.274</magK>
+        <magKmax>0.022</magKmax>
+        <magKmin>0.022</magKmin>
+        <magV>12.876</magV>
+        <magVmax>0.020</magVmax>
+        <magVmin>0.020</magVmin>
+        <mass>1.40</mass>
+        <radius>1.63</radius>
+        <temperature>6771.00</temperature>
+        <planet>
+            <name>K2-63 b</name>
+            <period>20.25700000</period>
+            <radius>0.287</radius>
+            <semimajoraxis>0.162700</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

@@ -1,0 +1,25 @@
+<system>
+    <name>WASP-102</name>
+    <declination>+16 51 24</declination>
+    <rightascension>4 44 19</rightascension>
+    <star>
+        <name>WASP-102</name>
+        <age>0.6</age>
+        <magV>12.73</magV>
+        <mass>1.167</mass>
+        <metallicity>0.09</metallicity>
+        <radius>1.331</radius>
+        <spectraltype>G0</spectraltype>
+        <temperature>5940.0</temperature>
+        <planet>
+            <name>WASP-102 b</name>
+            <impactparameter>0.03</impactparameter>
+            <inclination>89.73</inclination>
+            <mass>0.624</mass>
+            <period>2.709813</period>
+            <radius>1.259</radius>
+            <semimajoraxis>0.0401</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

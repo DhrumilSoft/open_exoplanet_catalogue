@@ -1,0 +1,24 @@
+<system>
+    <name>HD 134113</name>
+    <declination>+9 53 47</declination>
+    <distance>71.9</distance>
+    <rightascension>3 31 18</rightascension>
+    <star>
+        <name>HD 134113</name>
+        <magV>8.26</magV>
+        <mass>0.81</mass>
+        <metallicity>-0.74</metallicity>
+        <spectraltype>F9V</spectraltype>
+        <temperature>5782.0</temperature>
+        <planet>
+            <name>HD 134113 b</name>
+            <eccentricity>0.0891</eccentricity>
+            <mass>47.0</mass>
+            <massother>47.0</massother>
+            <periastron>163.0</periastron>
+            <period>201.68</period>
+            <semimajoraxis>0.638</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
