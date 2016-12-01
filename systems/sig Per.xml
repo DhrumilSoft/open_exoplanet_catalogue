@@ -1,0 +1,25 @@
+<system>
+    <name>sig Per</name>
+    <declination>+48 60 43</declination>
+    <distance>108.3</distance>
+    <rightascension>1 35 6</rightascension>
+    <star>
+        <name>sig Per</name>
+        <magV>4.36</magV>
+        <mass>2.25</mass>
+        <metallicity>-0.22</metallicity>
+        <radius>28.0</radius>
+        <spectraltype>K3III</spectraltype>
+        <temperature>4367.0</temperature>
+        <planet>
+            <name>sig Per b</name>
+            <eccentricity>0.3</eccentricity>
+            <mass>6.5</mass>
+            <massother>6.5</massother>
+            <periastron>83.5</periastron>
+            <period>579.8</period>
+            <semimajoraxis>1.8</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

@@ -1,0 +1,21 @@
+<system>
+    <name>HR 3549</name>
+    <declination>-57 39 58</declination>
+    <distance>92.5</distance>
+    <rightascension>1 29 51</rightascension>
+    <star>
+        <name>HR 3549</name>
+        <age>0.125</age>
+        <alternatenames>HD 76346</alternatenames>
+        <magV>6.01</magV>
+        <spectraltype>A0V</spectraltype>
+        <temperature>10207.0</temperature>
+        <planet>
+            <name>HR 3549 b</name>
+            <mass>45.0</mass>
+            <semimajoraxis>80.0</semimajoraxis>
+            <temperature>2350.0</temperature>
+        </planet>
+    </star>
+</system>
+

@@ -1,0 +1,30 @@
+<system>
+    <name>K2-78</name>
+    <declination>+13d29m00.8s</declination>
+    <rightascension>03h48m54.07s</rightascension>
+    <star>
+        <name>K2-78</name>
+        <magH>10.001</magH>
+        <magHmax>0.020</magHmax>
+        <magHmin>0.020</magHmin>
+        <magJ>10.463</magJ>
+        <magJmax>0.023</magJmax>
+        <magJmin>0.023</magJmin>
+        <magK>9.890</magK>
+        <magKmax>0.018</magKmax>
+        <magKmin>0.018</magKmin>
+        <magV>12.191</magV>
+        <magVmax>0.020</magVmax>
+        <magVmin>0.020</magVmin>
+        <mass>0.90</mass>
+        <radius>0.88</radius>
+        <temperature>5729.00</temperature>
+        <planet>
+            <name>K2-78 b</name>
+            <period>2.29016000</period>
+            <radius>0.127</radius>
+            <semimajoraxis>0.032800</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

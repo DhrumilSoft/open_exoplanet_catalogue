@@ -1,0 +1,30 @@
+<system>
+    <name>K2-68</name>
+    <declination>-10d34m02.3s</declination>
+    <rightascension>22h16m04.75s</rightascension>
+    <star>
+        <name>K2-68</name>
+        <magH>10.651</magH>
+        <magHmax>0.021</magHmax>
+        <magHmin>0.021</magHmin>
+        <magJ>11.139</magJ>
+        <magJmax>0.027</magJmax>
+        <magJmin>0.027</magJmin>
+        <magK>10.530</magK>
+        <magKmax>0.019</magKmax>
+        <magKmin>0.019</magKmin>
+        <magV>12.977</magV>
+        <magVmax>0.050</magVmax>
+        <magVmin>0.050</magVmin>
+        <mass>0.73</mass>
+        <radius>0.68</radius>
+        <temperature>4746.00</temperature>
+        <planet>
+            <name>K2-68 b</name>
+            <period>8.05428000</period>
+            <radius>0.141</radius>
+            <semimajoraxis>0.070800</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

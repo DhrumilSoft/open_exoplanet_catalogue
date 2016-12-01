@@ -1,0 +1,19 @@
+<system>
+    <name>CL Tau</name>
+    <declination>+8 6 46</declination>
+    <rightascension>1 46 28</rightascension>
+    <star>
+        <name>CL Tau</name>
+        <age>0.002</age>
+        <magV>13.0</magV>
+        <mass>0.8</mass>
+        <spectraltype>T Tau</spectraltype>
+        <planet>
+            <name>CL Tau b</name>
+            <inclination>45.7</inclination>
+            <mass>12.31</mass>
+            <period>8.9965</period>
+        </planet>
+    </star>
+</system>
+

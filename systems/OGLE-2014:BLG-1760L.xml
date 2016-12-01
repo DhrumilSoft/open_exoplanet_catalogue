@@ -1,0 +1,16 @@
+<system>
+    <name>OGLE-2014:BLG-1760L</name>
+    <declination>-29 58 47</declination>
+    <distance>6060.0</distance>
+    <rightascension>3 60 36</rightascension>
+    <star>
+        <name>OGLE-2014:BLG-1760L</name>
+        <mass>0.51</mass>
+        <planet>
+            <name>OGLE-2014:BLG-1760L b</name>
+            <mass>0.573</mass>
+            <semimajoraxis>1.75</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
