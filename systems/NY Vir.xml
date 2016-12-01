@@ -1,0 +1,19 @@
+<system>
+    <name>NY Vir</name>
+    <declination>-2 2 49</declination>
+    <rightascension>2 16 28</rightascension>
+    <star>
+        <name>NY Vir</name>
+        <magV>13.3</magV>
+        <mass>0.6</mass>
+        <spectraltype>B D</spectraltype>
+        <temperature>33000.0</temperature>
+        <planet>
+            <name>NY Vir c</name>
+            <mass>4.49</mass>
+            <period>9861.75</period>
+            <semimajoraxis>7.54</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

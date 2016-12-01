@@ -1,0 +1,20 @@
+<system>
+    <name>TYC 9486-927-1</name>
+    <declination>-82 38 28</declination>
+    <distance>24.75</distance>
+    <rightascension>4 34 15</rightascension>
+    <star>
+        <name>TYC 9486-927-1</name>
+        <age>0.027</age>
+        <magV>9.0</magV>
+        <mass>0.4</mass>
+        <spectraltype>M2</spectraltype>
+        <planet>
+            <name>2M J2126-81 b</name>
+            <mass>13.3</mass>
+            <semimajoraxis>6900.0</semimajoraxis>
+            <temperature>1800.0</temperature>
+        </planet>
+    </star>
+</system>
+

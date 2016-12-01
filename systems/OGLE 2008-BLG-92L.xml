@@ -1,0 +1,16 @@
+<system>
+    <name>OGLE 2008-BLG-92L</name>
+    <declination>-34d43m35.6s</declination>
+    <distance>8100.00</distance>
+    <rightascension>17h47m29.42s</rightascension>
+    <star>
+        <name>OGLE 2008-BLG-92L</name>
+        <mass>0.71</mass>
+        <planet>
+            <name>OGLE 2008-BLG-92L b</name>
+            <mass>0.18000</mass>
+            <semimajoraxis>18.000000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

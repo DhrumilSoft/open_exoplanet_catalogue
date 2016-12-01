@@ -1,0 +1,20 @@
+<system>
+    <name>KOI-771</name>
+    <declination>+49 19 59</declination>
+    <rightascension>3 18 48</rightascension>
+    <star>
+        <name>KOI-771</name>
+        <magV>15.2</magV>
+        <mass>0.95</mass>
+        <metallicity>0.48</metallicity>
+        <radius>0.94</radius>
+        <temperature>5520.0</temperature>
+        <planet>
+            <name>KOI-771 b</name>
+            <inclination>89.535</inclination>
+            <period>670.6502</period>
+            <radius>1.23</radius>
+        </planet>
+    </star>
+</system>
+

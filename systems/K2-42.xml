@@ -1,0 +1,30 @@
+<system>
+    <name>K2-42</name>
+    <declination>-05d10m18.9s</declination>
+    <rightascension>11h46m39.77s</rightascension>
+    <star>
+        <name>K2-42</name>
+        <magH>12.398</magH>
+        <magHmax>0.024</magHmax>
+        <magHmin>0.024</magHmin>
+        <magJ>12.982</magJ>
+        <magJmax>0.023</magJmax>
+        <magJmin>0.023</magJmin>
+        <magK>12.284</magK>
+        <magKmax>0.019</magKmax>
+        <magKmin>0.019</magKmin>
+        <magV>15.023</magV>
+        <magVmax>0.020</magVmax>
+        <magVmin>0.020</magVmin>
+        <mass>0.70</mass>
+        <radius>0.64</radius>
+        <temperature>4613.00</temperature>
+        <planet>
+            <name>K2-42 b</name>
+            <period>6.68796000</period>
+            <radius>0.192</radius>
+            <semimajoraxis>0.061700</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

@@ -1,0 +1,26 @@
+<system>
+    <name>HATS-23</name>
+    <declination>-50 4 3</declination>
+    <distance>747.0</distance>
+    <rightascension>3 11 55</rightascension>
+    <star>
+        <name>HATS-23</name>
+        <age>4.2</age>
+        <magV>13.9</magV>
+        <mass>1.121</mass>
+        <metallicity>0.28</metallicity>
+        <radius>1.199</radius>
+        <temperature>5780.0</temperature>
+        <planet>
+            <name>HATS-23 b</name>
+            <eccentricity>0.114</eccentricity>
+            <impactparameter>0.949</impactparameter>
+            <inclination>81.02</inclination>
+            <mass>1.47</mass>
+            <period>2.1605156</period>
+            <radius>1.86</radius>
+            <semimajoraxis>0.03397</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

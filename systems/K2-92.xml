@@ -1,0 +1,30 @@
+<system>
+    <name>K2-92</name>
+    <declination>+25d28m48.0s</declination>
+    <rightascension>04h00m16.77s</rightascension>
+    <star>
+        <name>K2-92</name>
+        <magH>10.325</magH>
+        <magHmax>0.022</magHmax>
+        <magHmin>0.022</magHmin>
+        <magJ>10.666</magJ>
+        <magJmax>0.020</magJmax>
+        <magJmin>0.020</magJmin>
+        <magK>10.237</magK>
+        <magKmax>0.018</magKmax>
+        <magKmin>0.018</magKmin>
+        <magV>12.490</magV>
+        <magVmax>0.070</magVmax>
+        <magVmin>0.070</magVmin>
+        <mass>1.04</mass>
+        <radius>1.38</radius>
+        <temperature>6098.00</temperature>
+        <planet>
+            <name>K2-92 b</name>
+            <period>0.70181800</period>
+            <radius>0.228</radius>
+            <semimajoraxis>0.015660</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
