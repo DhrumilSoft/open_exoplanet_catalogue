@@ -1,0 +1,24 @@
+<system>
+    <name>GJ 649</name>
+    <declination>+26 45 39</declination>
+    <distance>10.34</distance>
+    <rightascension>3 50 41</rightascension>
+    <star>
+        <name>GJ 649</name>
+        <magV>9.7</magV>
+        <mass>0.54</mass>
+        <metallicity>0.08</metallicity>
+        <spectraltype>M1.5</spectraltype>
+        <temperature>3700.0</temperature>
+        <planet>
+            <name>GJ 649 c</name>
+            <eccentricity>0.2</eccentricity>
+            <mass>0.03</mass>
+            <massother>0.03</massother>
+            <periastron>334.0</periastron>
+            <period>4.4762</period>
+            <semimajoraxis>0.043</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

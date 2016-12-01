@@ -1,0 +1,30 @@
+<system>
+    <name>K2-43</name>
+    <declination>-03d58m31.6s</declination>
+    <rightascension>11h16m28.11s</rightascension>
+    <star>
+        <name>K2-43</name>
+        <magH>11.712</magH>
+        <magHmax>0.024</magHmax>
+        <magHmin>0.024</magHmin>
+        <magJ>12.422</magJ>
+        <magJmax>0.024</magJmax>
+        <magJmin>0.024</magJmin>
+        <magK>11.577</magK>
+        <magKmax>0.024</magKmax>
+        <magKmin>0.024</magKmin>
+        <magV>15.596</magV>
+        <magVmax>0.050</magVmax>
+        <magVmin>0.050</magVmin>
+        <mass>0.60</mass>
+        <radius>0.57</radius>
+        <temperature>3939.00</temperature>
+        <planet>
+            <name>K2-43 b</name>
+            <period>3.47114000</period>
+            <radius>0.368</radius>
+            <semimajoraxis>0.037840</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

@@ -1,0 +1,30 @@
+<system>
+    <name>K2-86</name>
+    <declination>+18d38m08.2s</declination>
+    <rightascension>03h26m12.67s</rightascension>
+    <star>
+        <name>K2-86</name>
+        <magH>11.003</magH>
+        <magHmax>0.019</magHmax>
+        <magHmin>0.019</magHmin>
+        <magJ>11.440</magJ>
+        <magJmax>0.021</magJmax>
+        <magJmin>0.021</magJmin>
+        <magK>10.927</magK>
+        <magKmax>0.019</magKmax>
+        <magKmin>0.019</magKmin>
+        <magV>13.167</magV>
+        <magVmax>0.260</magVmax>
+        <magVmin>0.260</magVmin>
+        <mass>0.79</mass>
+        <radius>0.76</radius>
+        <temperature>5482.00</temperature>
+        <planet>
+            <name>K2-86 b</name>
+            <period>8.77683000</period>
+            <radius>0.175</radius>
+            <semimajoraxis>0.077000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

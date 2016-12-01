@@ -1,0 +1,22 @@
+<system>
+    <name>KIC 5732155</name>
+    <declination>+41 54 24</declination>
+    <rightascension>3 19 57</rightascension>
+    <star>
+        <name>KIC 5732155</name>
+        <magV>15.5</magV>
+        <mass>1.13</mass>
+        <metallicity>-0.03</metallicity>
+        <radius>1.99</radius>
+        <temperature>5755.0</temperature>
+        <planet>
+            <name>KIC 5732155 b</name>
+            <eccentricity>0.0</eccentricity>
+            <inclination>89.76</inclination>
+            <period>644.1685</period>
+            <radius>1.14</radius>
+            <semimajoraxis>1.52</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

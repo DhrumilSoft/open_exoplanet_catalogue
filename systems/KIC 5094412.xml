@@ -1,0 +1,22 @@
+<system>
+    <name>KIC 5094412</name>
+    <declination>+40 17 16</declination>
+    <rightascension>3 14 32</rightascension>
+    <star>
+        <name>KIC 5094412</name>
+        <magV>16.0</magV>
+        <mass>0.82</mass>
+        <metallicity>-0.327</metallicity>
+        <radius>0.8</radius>
+        <temperature>5313.0</temperature>
+        <planet>
+            <name>KIC 5094412 b</name>
+            <eccentricity>0.0</eccentricity>
+            <inclination>89.74</inclination>
+            <period>276.88</period>
+            <radius>0.51</radius>
+            <semimajoraxis>0.78</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

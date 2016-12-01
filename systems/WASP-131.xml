@@ -1,0 +1,27 @@
+<system>
+    <name>WASP-131</name>
+    <declination>-31 35 1</declination>
+    <distance>250.0</distance>
+    <rightascension>2 20 8</rightascension>
+    <star>
+        <name>WASP-131</name>
+        <age>4.5</age>
+        <magV>10.1</magV>
+        <mass>1.06</mass>
+        <metallicity>0.18</metallicity>
+        <radius>1.53</radius>
+        <spectraltype>G0</spectraltype>
+        <temperature>6030.0</temperature>
+        <planet>
+            <name>WASP-131 b</name>
+            <eccentricity>0.0</eccentricity>
+            <impactparameter>0.73</impactparameter>
+            <inclination>85.0</inclination>
+            <mass>0.27</mass>
+            <period>5.322023</period>
+            <radius>1.22</radius>
+            <semimajoraxis>0.0607</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

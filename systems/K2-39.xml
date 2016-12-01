@@ -1,0 +1,36 @@
+<system>
+    <name>K2-39</name>
+    <declination>-9 1 22</declination>
+    <distance>255.0</distance>
+    <rightascension>4 47 35</rightascension>
+    <star>
+        <name>K2-39</name>
+        <age>3.09</age>
+        <magV>10.83</magV>
+        <mass>1.53</mass>
+        <metallicity>0.32</metallicity>
+        <radius>3.88</radius>
+        <temperature>4881.0</temperature>
+        <planet>
+            <name>K2-39</name>
+            <eccentricity>0.0</eccentricity>
+            <impactparameter>0.57</impactparameter>
+            <inclination>80.0</inclination>
+            <mass>0.158</mass>
+            <period>4.60543</period>
+            <radius>0.73</radius>
+            <semimajoraxis>0.062</semimajoraxis>
+        </planet>
+        <planet>
+            <name>K2-39 b</name>
+            <eccentricity>0.000000</eccentricity>
+            <impactparameter>0.5700</impactparameter>
+            <inclination>80.390</inclination>
+            <mass>0.15826</mass>
+            <period>4.60543000</period>
+            <radius>0.732</radius>
+            <semimajoraxis>0.062000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
