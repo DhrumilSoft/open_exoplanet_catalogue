@@ -1,0 +1,27 @@
+<system>
+    <name>K2-51</name>
+    <declination>-27d57m25.4s</declination>
+    <rightascension>16h27m14.68s</rightascension>
+    <star>
+        <name>K2-51</name>
+        <magH>10.225</magH>
+        <magHmax>0.024</magHmax>
+        <magHmin>0.024</magHmin>
+        <magJ>10.686</magJ>
+        <magJmax>0.023</magJmax>
+        <magJmin>0.023</magJmin>
+        <magK>10.030</magK>
+        <magKmax>0.019</magKmax>
+        <magKmin>0.019</magKmin>
+        <mass>1.01</mass>
+        <radius>1.37</radius>
+        <temperature>5452.00</temperature>
+        <planet>
+            <name>K2-51 b</name>
+            <period>13.01060000</period>
+            <radius>1.151</radius>
+            <semimajoraxis>0.108600</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

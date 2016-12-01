@@ -1,0 +1,21 @@
+<system>
+    <name>2M 1207-39</name>
+    <declination>-40 33 54</declination>
+    <distance>52.4</distance>
+    <rightascension>2 1 15</rightascension>
+    <star>
+        <name>2M 1207-39</name>
+        <age>0.008</age>
+        <magI>15.95</magI>
+        <magJ>13.0</magJ>
+        <magV>20.15</magV>
+        <mass>0.025</mass>
+        <spectraltype>M8</spectraltype>
+        <planet>
+            <name>2M 1207-39 b</name>
+            <mass>4.0</mass>
+            <semimajoraxis>46.0</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

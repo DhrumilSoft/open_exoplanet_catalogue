@@ -1,0 +1,20 @@
+<system>
+    <name>KIC 10024862</name>
+    <declination>+47 56 4</declination>
+    <rightascension>3 18 52</rightascension>
+    <star>
+        <name>KIC 10024862</name>
+        <magV>16.4</magV>
+        <mass>1.07</mass>
+        <metallicity>0.07</metallicity>
+        <radius>1.11</radius>
+        <temperature>6616.0</temperature>
+        <planet>
+            <name>KIC 10024862 b</name>
+            <inclination>89.868</inclination>
+            <period>567.0445</period>
+            <radius>0.49</radius>
+        </planet>
+    </star>
+</system>
+

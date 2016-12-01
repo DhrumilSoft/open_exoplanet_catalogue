@@ -1,0 +1,24 @@
+<system>
+    <name>WISE 1711+3500</name>
+    <declination>+35 1 37</declination>
+    <distance>19.0</distance>
+    <rightascension>3 52 51</rightascension>
+    <star>
+        <name>WISE 1711+3500</name>
+        <age>3.0</age>
+        <alternatenames>WISE J1511+3500B</alternatenames>
+        <magV>18.0</magV>
+        <mass>0.034</mass>
+        <spectraltype>T8</spectraltype>
+        <temperature>770.0</temperature>
+        <planet>
+            <name>WISE 1711+3500 b</name>
+            <alternatenames>WISE J1511+3500B</alternatenames>
+            <mass>18.0</mass>
+            <period>125000.0</period>
+            <semimajoraxis>15.0</semimajoraxis>
+            <temperature>460.0</temperature>
+        </planet>
+    </star>
+</system>
+

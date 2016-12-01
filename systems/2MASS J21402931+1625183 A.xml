@@ -1,0 +1,34 @@
+<system>
+    <name>2MASS J21402931+1625183 A</name>
+    <declination>+16d25m18.3s</declination>
+    <distance>25.00</distance>
+    <rightascension>21h40m29.32s</rightascension>
+    <star>
+        <name>2MASS J21402931+1625183 A</name>
+        <magH>12.266</magH>
+        <magHmax>0.040</magHmax>
+        <magHmin>0.040</magHmin>
+        <magJ>12.940</magJ>
+        <magJmax>0.033</magJmax>
+        <magJmin>0.033</magJmin>
+        <magK>11.826</magK>
+        <magKmax>0.031</magKmax>
+        <magKmin>0.031</magKmin>
+        <mass>0.08</mass>
+        <radius>0.12</radius>
+        <temperature>2300.00</temperature>
+        <planet>
+            <name>2MASS J21402931+1625183 A b</name>
+            <eccentricity>0.260000</eccentricity>
+            <inclination>46.200</inclination>
+            <mass>20.95000</mass>
+            <periastron>223.0000</periastron>
+            <period>7336.50000000</period>
+            <radius>0.920</radius>
+            <temperature>2075</temperature>
+            <temperaturemax>70</temperaturemax>
+            <temperaturemin>-70</temperaturemin>
+        </planet>
+    </star>
+</system>
+
