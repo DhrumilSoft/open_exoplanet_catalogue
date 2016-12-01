@@ -1,0 +1,29 @@
+<system>
+    <name>CoRoT-33</name>
+    <declination>+6 37 29</declination>
+    <rightascension>3 6 26</rightascension>
+    <star>
+        <name>CoRoT-33</name>
+        <age>4.6</age>
+        <alternatenames>2MASS 18383391 + 0537287, USNO-A2 0900-13338694</alternatenames>
+        <magV>14.7</magV>
+        <mass>0.86</mass>
+        <metallicity>0.44</metallicity>
+        <radius>0.94</radius>
+        <spectraltype>G9V</spectraltype>
+        <temperature>5225.0</temperature>
+        <planet>
+            <name>CoRoT-33 b</name>
+            <eccentricity>0.07</eccentricity>
+            <impactparameter>1.04</impactparameter>
+            <inclination>85.5</inclination>
+            <mass>59.2</mass>
+            <massother>59.0</massother>
+            <periastron>179.3</periastron>
+            <period>5.819143</period>
+            <radius>1.1</radius>
+            <semimajoraxis>0.0579</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

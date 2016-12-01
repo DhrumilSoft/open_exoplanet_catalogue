@@ -1,0 +1,30 @@
+<system>
+    <name>K2-55</name>
+    <declination>-17d15m02.5s</declination>
+    <rightascension>22h15m00.46s</rightascension>
+    <star>
+        <name>K2-55</name>
+        <magH>10.615</magH>
+        <magHmax>0.024</magHmax>
+        <magHmin>0.024</magHmin>
+        <magJ>11.230</magJ>
+        <magJmax>0.023</magJmax>
+        <magJmin>0.023</magJmin>
+        <magK>10.471</magK>
+        <magKmax>0.025</magKmax>
+        <magKmin>0.025</magKmin>
+        <magV>13.546</magV>
+        <magVmax>0.020</magVmax>
+        <magVmin>0.020</magVmin>
+        <mass>0.70</mass>
+        <radius>0.63</radius>
+        <temperature>4456.00</temperature>
+        <planet>
+            <name>K2-55 b</name>
+            <period>2.84925800</period>
+            <radius>0.341</radius>
+            <semimajoraxis>0.034860</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

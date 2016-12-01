@@ -1,0 +1,32 @@
+<system>
+    <name>GJ 536</name>
+    <declination>-3 39 18</declination>
+    <distance>10.03</distance>
+    <rightascension>2 20 11</rightascension>
+    <star>
+        <name>GJ 536</name>
+        <mass>0.52</mass>
+        <metallicity>-0.08</metallicity>
+        <radius>0.5</radius>
+        <spectraltype>M1</spectraltype>
+        <temperature>3685.0</temperature>
+        <planet>
+            <name>GJ 536</name>
+            <eccentricity>0.08</eccentricity>
+            <mass>0.0169</mass>
+            <massother>0.0169</massother>
+            <periastron>288.7</periastron>
+            <period>8.7076</period>
+            <semimajoraxis>0.06661</semimajoraxis>
+        </planet>
+        <planet>
+            <name>GJ 536 b</name>
+            <eccentricity>0.080000</eccentricity>
+            <massother>0.01686</massother>
+            <periastron>288.7000</periastron>
+            <period>8.70760000</period>
+            <semimajoraxis>0.066610</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

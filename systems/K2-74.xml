@@ -1,0 +1,30 @@
+<system>
+    <name>K2-74</name>
+    <declination>-08d42m52.2s</declination>
+    <rightascension>22h39m40.64s</rightascension>
+    <star>
+        <name>K2-74</name>
+        <magH>11.177</magH>
+        <magHmax>0.026</magHmax>
+        <magHmin>0.026</magHmin>
+        <magJ>11.427</magJ>
+        <magJmax>0.027</magJmax>
+        <magJmin>0.027</magJmin>
+        <magK>11.068</magK>
+        <magKmax>0.019</magKmax>
+        <magKmin>0.019</magKmin>
+        <magV>12.588</magV>
+        <magVmax>0.031</magVmax>
+        <magVmin>0.031</magVmin>
+        <mass>0.96</mass>
+        <radius>0.98</radius>
+        <temperature>6060.00</temperature>
+        <planet>
+            <name>K2-74 b</name>
+            <period>19.56660000</period>
+            <radius>0.206</radius>
+            <semimajoraxis>0.140200</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

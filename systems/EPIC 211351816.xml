@@ -1,0 +1,34 @@
+<system>
+    <name>EPIC 211351816</name>
+    <declination>+10d50m51.3s</declination>
+    <distance>763.00</distance>
+    <rightascension>08h31m03.08s</rightascension>
+    <star>
+        <name>EPIC 211351816</name>
+        <age>7.800</age>
+        <magH>10.177</magH>
+        <magHmax>0.023</magHmax>
+        <magHmin>0.023</magHmin>
+        <magJ>10.694</magJ>
+        <magJmax>0.023</magJmax>
+        <magJmin>0.023</magJmin>
+        <magK>10.035</magK>
+        <magKmax>0.021</magKmax>
+        <magKmin>0.021</magKmin>
+        <magV>12.611</magV>
+        <magVmax>0.031</magVmax>
+        <magVmin>0.031</magVmin>
+        <mass>1.16</mass>
+        <metallicity>[Fe/H]</metallicity>
+        <radius>4.20</radius>
+        <temperature>4790.00</temperature>
+        <planet>
+            <name>EPIC 211351816 b</name>
+            <impactparameter>0.9330</impactparameter>
+            <mass>1.10000</mass>
+            <period>8.40610000</period>
+            <radius>1.310</radius>
+        </planet>
+    </star>
+</system>
+
