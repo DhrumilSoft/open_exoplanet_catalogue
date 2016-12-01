@@ -1,0 +1,24 @@
+<system>
+    <name>KIC 6436029</name>
+    <declination>+42 54 34</declination>
+    <rightascension>3 13 2</rightascension>
+    <star>
+        <name>KIC 6436029</name>
+        <alternatenames>KOI-2828</alternatenames>
+        <magV>16.2</magV>
+        <mass>0.83</mass>
+        <metallicity>0.42</metallicity>
+        <radius>0.83</radius>
+        <temperature>4817.0</temperature>
+        <planet>
+            <name>KIC 6436029 b</name>
+            <alternatenames>KOI-2828 b</alternatenames>
+            <eccentricity>0.0</eccentricity>
+            <inclination>89.94</inclination>
+            <period>505.45</period>
+            <radius>0.274</radius>
+            <semimajoraxis>1.15</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

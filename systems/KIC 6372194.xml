@@ -1,0 +1,23 @@
+<system>
+    <name>KIC 6372194</name>
+    <declination>+42 45 51</declination>
+    <rightascension>3 16 13</rightascension>
+    <star>
+        <name>KIC 6372194</name>
+        <magV>16.3</magV>
+        <mass>0.8</mass>
+        <metallicity>-0.37</metallicity>
+        <radius>0.75</radius>
+        <temperature>5233.0</temperature>
+        <planet>
+            <name>KIC 6372194 b</name>
+            <eccentricity>0.65</eccentricity>
+            <inclination>89.69</inclination>
+            <periastron>360.0</periastron>
+            <period>281.5848</period>
+            <radius>0.74</radius>
+            <semimajoraxis>0.78</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

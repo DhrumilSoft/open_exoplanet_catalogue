@@ -1,0 +1,15 @@
+<system>
+    <name>WISE 0855-0714</name>
+    <declination>-7 15 43</declination>
+    <distance>2.31</distance>
+    <rightascension>1 29 12</rightascension>
+    <star>
+        <name>WISE 0855-0714</name>
+        <age>3.0</age>
+        <planet>
+            <name>WISE 0855-0714</name>
+            <mass>6.0</mass>
+        </planet>
+    </star>
+</system>
+

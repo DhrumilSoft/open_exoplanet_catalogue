@@ -1,0 +1,30 @@
+<system>
+    <name>K2-81</name>
+    <declination>+14d30m07.9s</declination>
+    <rightascension>03h49m56.52s</rightascension>
+    <star>
+        <name>K2-81</name>
+        <magH>11.419</magH>
+        <magHmax>0.021</magHmax>
+        <magHmin>0.021</magHmin>
+        <magJ>12.048</magJ>
+        <magJmax>0.022</magJmax>
+        <magJmin>0.022</magJmin>
+        <magK>11.316</magK>
+        <magKmax>0.019</magKmax>
+        <magKmin>0.019</magKmin>
+        <magV>14.364</magV>
+        <magVmax>0.040</magVmax>
+        <magVmin>0.040</magVmin>
+        <mass>0.70</mass>
+        <radius>0.63</radius>
+        <temperature>4530.00</temperature>
+        <planet>
+            <name>K2-81 b</name>
+            <period>6.10224000</period>
+            <radius>0.162</radius>
+            <semimajoraxis>0.057900</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

@@ -1,0 +1,29 @@
+<system>
+    <name>WASP-87 A</name>
+    <declination>-53 50 27</declination>
+    <distance>240.0</distance>
+    <rightascension>2 4 33</rightascension>
+    <star>
+        <name>WASP-87 A</name>
+        <age>3.8</age>
+        <magV>10.7</magV>
+        <mass>1.204</mass>
+        <metallicity>-0.41</metallicity>
+        <radius>1.627</radius>
+        <spectraltype>F5</spectraltype>
+        <temperature>6450.0</temperature>
+        <planet>
+            <name>WASP-87A b</name>
+            <eccentricity>0.0</eccentricity>
+            <impactparameter>0.604</impactparameter>
+            <inclination>81.07</inclination>
+            <longitude>352.0</longitude>
+            <mass>2.21</mass>
+            <massother>2.18</massother>
+            <period>1.682795</period>
+            <radius>1.385</radius>
+            <semimajoraxis>0.02946</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

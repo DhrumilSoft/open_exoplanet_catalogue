@@ -1,0 +1,36 @@
+<system>
+    <name>K2-84</name>
+    <declination>+16d38m04.4s</declination>
+    <rightascension>03h43m14.23s</rightascension>
+    <star>
+        <name>K2-84</name>
+        <magH>11.206</magH>
+        <magHmax>0.018</magHmax>
+        <magHmin>0.018</magHmin>
+        <magJ>11.613</magJ>
+        <magJmax>0.022</magJmax>
+        <magJmin>0.022</magJmin>
+        <magK>11.059</magK>
+        <magKmax>0.020</magKmax>
+        <magKmin>0.020</magKmin>
+        <magV>13.443</magV>
+        <magVmax>0.060</magVmax>
+        <magVmin>0.060</magVmin>
+        <mass>0.95</mass>
+        <radius>0.93</radius>
+        <temperature>5652.00</temperature>
+        <planet>
+            <name>K2-84 c</name>
+            <period>27.86000000</period>
+            <radius>0.181</radius>
+            <semimajoraxis>0.176800</semimajoraxis>
+        </planet>
+        <planet>
+            <name>K2-84 b</name>
+            <period>6.42150000</period>
+            <radius>0.215</radius>
+            <semimajoraxis>0.066500</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

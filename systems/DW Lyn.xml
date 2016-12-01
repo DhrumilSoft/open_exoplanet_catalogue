@@ -1,0 +1,17 @@
+<system>
+    <name>DW Lyn</name>
+    <declination>+61 39 50</declination>
+    <rightascension>1 11 12</rightascension>
+    <star>
+        <name>DW Lyn</name>
+        <magJ>15.45</magJ>
+        <spectraltype>SdB D</spectraltype>
+        <planet>
+            <name>DW Lyn b</name>
+            <mass>5.58</mass>
+            <massother>5.58</massother>
+            <semimajoraxis>1148.0</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
