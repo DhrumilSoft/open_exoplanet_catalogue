@@ -1,0 +1,19 @@
+<system>
+    <name>WD 1145+017</name>
+    <declination>+1 29 59</declination>
+    <distance>174.0</distance>
+    <rightascension>2 58 6</rightascension>
+    <star>
+        <name>WD 1145+017</name>
+        <alternatenames>EPIC 201563164</alternatenames>
+        <magV>17.0</magV>
+        <spectraltype>WD</spectraltype>
+        <temperature>15900.0</temperature>
+        <planet>
+            <name>WD 1145+017 b</name>
+            <mass>2.1e-06</mass>
+            <period>0.1875</period>
+        </planet>
+    </star>
+</system>
+

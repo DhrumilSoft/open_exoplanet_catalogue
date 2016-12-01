@@ -1,0 +1,28 @@
+<system>
+    <name>NGC 2682 YBP 1194</name>
+    <declination>+11d48m52.8s</declination>
+    <rightascension>08h51m00.81s</rightascension>
+    <star>
+        <name>NGC 2682 YBP 1194</name>
+        <magH>13.041</magH>
+        <magHmax>0.024</magHmax>
+        <magHmin>0.024</magHmin>
+        <magJ>13.366</magJ>
+        <magJmax>0.021</magJmax>
+        <magJmin>0.021</magJmin>
+        <magK>12.965</magK>
+        <magKmax>0.028</magKmax>
+        <magKmin>0.028</magKmin>
+        <magV>14.600</magV>
+        <mass>1.01</mass>
+        <temperature>5780.00</temperature>
+        <planet>
+            <name>NGC 2682 YBP 1194 b</name>
+            <eccentricity>0.300000</eccentricity>
+            <massother>0.32000</massother>
+            <periastron>99.3600</periastron>
+            <period>6.95900000</period>
+        </planet>
+    </star>
+</system>
+

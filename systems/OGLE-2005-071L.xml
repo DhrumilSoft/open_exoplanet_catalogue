@@ -1,0 +1,18 @@
+<system>
+    <name>OGLE-2005-071L</name>
+    <declination>-35 40 23</declination>
+    <distance>3300.0</distance>
+    <rightascension>3 58 22</rightascension>
+    <star>
+        <name>OGLE-2005-071L</name>
+        <magI>19.5</magI>
+        <mass>0.46</mass>
+        <planet>
+            <name>OGLE-2005-071L b</name>
+            <mass>3.5</mass>
+            <period>3600.0</period>
+            <semimajoraxis>3.6</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

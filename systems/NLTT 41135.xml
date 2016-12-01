@@ -1,0 +1,25 @@
+<system>
+    <name>NLTT 41135</name>
+    <declination>+5 42 30</declination>
+    <distance>22.7</distance>
+    <rightascension>3 38 41</rightascension>
+    <star>
+        <name>NLTT 41135</name>
+        <magV>18.0</magV>
+        <mass>0.188</mass>
+        <metallicity>0.0</metallicity>
+        <radius>0.21</radius>
+        <spectraltype>M5.1</spectraltype>
+        <temperature>3230.0</temperature>
+        <planet>
+            <name>NLTT 41135</name>
+            <inclination>87.42</inclination>
+            <mass>33.7</mass>
+            <massother>33.7</massother>
+            <period>2.889475</period>
+            <radius>1.13</radius>
+            <semimajoraxis>0.024</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

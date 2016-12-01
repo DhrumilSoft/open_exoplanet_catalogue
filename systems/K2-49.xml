@@ -1,0 +1,30 @@
+<system>
+    <name>K2-49</name>
+    <declination>+03d28m32.0s</declination>
+    <rightascension>11h49m16.85s</rightascension>
+    <star>
+        <name>K2-49</name>
+        <magH>12.873</magH>
+        <magHmax>0.025</magHmax>
+        <magHmin>0.025</magHmin>
+        <magJ>13.463</magJ>
+        <magJmax>0.026</magJmax>
+        <magJmin>0.026</magJmin>
+        <magK>12.729</magK>
+        <magKmax>0.030</magKmax>
+        <magKmin>0.030</magKmin>
+        <magV>15.668</magV>
+        <magVmax>0.080</magVmax>
+        <magVmin>0.080</magVmin>
+        <mass>0.51</mass>
+        <radius>0.45</radius>
+        <temperature>4175.00</temperature>
+        <planet>
+            <name>K2-49 b</name>
+            <period>2.77065000</period>
+            <radius>0.172</radius>
+            <semimajoraxis>0.030900</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

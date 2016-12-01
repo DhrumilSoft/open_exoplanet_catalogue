@@ -1,0 +1,30 @@
+<system>
+    <name>K2-60</name>
+    <declination>-13d43m54.1s</declination>
+    <rightascension>22h34m25.48s</rightascension>
+    <star>
+        <name>K2-60</name>
+        <magH>11.085</magH>
+        <magHmax>0.025</magHmax>
+        <magHmin>0.025</magHmin>
+        <magJ>11.410</magJ>
+        <magJmax>0.021</magJmax>
+        <magJmin>0.021</magJmin>
+        <magK>10.993</magK>
+        <magKmax>0.021</magKmax>
+        <magKmin>0.021</magKmin>
+        <magV>12.789</magV>
+        <magVmax>0.020</magVmax>
+        <magVmin>0.020</magVmin>
+        <mass>1.08</mass>
+        <radius>1.47</radius>
+        <temperature>5749.00</temperature>
+        <planet>
+            <name>K2-60 b</name>
+            <period>3.00262700</period>
+            <radius>0.883</radius>
+            <semimajoraxis>0.041790</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

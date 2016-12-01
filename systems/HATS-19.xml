@@ -1,0 +1,28 @@
+<system>
+    <name>HATS-19</name>
+    <declination>-33 13 7</declination>
+    <distance>780.0</distance>
+    <rightascension>2 38 16</rightascension>
+    <star>
+        <name>HATS-19</name>
+        <age>3.94</age>
+        <magV>13.0</magV>
+        <mass>1.303</mass>
+        <metallicity>0.24</metallicity>
+        <radius>1.74</radius>
+        <spectraltype>G0</spectraltype>
+        <temperature>5896.0</temperature>
+        <planet>
+            <name>HATS-19 b</name>
+            <eccentricity>0.3</eccentricity>
+            <impactparameter>0.32</impactparameter>
+            <inclination>86.6</inclination>
+            <mass>0.427</mass>
+            <periastron>44.0</periastron>
+            <period>4.569673</period>
+            <radius>1.66</radius>
+            <semimajoraxis>0.0589</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

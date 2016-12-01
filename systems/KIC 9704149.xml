@@ -1,0 +1,23 @@
+<system>
+    <name>KIC 9704149</name>
+    <declination>+46 25 18</declination>
+    <rightascension>3 13 47</rightascension>
+    <star>
+        <name>KIC 9704149</name>
+        <magV>15.5</magV>
+        <mass>0.86</mass>
+        <metallicity>-0.16</metallicity>
+        <radius>0.78</radius>
+        <temperature>5640.0</temperature>
+        <planet>
+            <name>KIC 9704149 b</name>
+            <eccentricity>0.29</eccentricity>
+            <inclination>89.95</inclination>
+            <periastron>7.4</periastron>
+            <period>697.0159</period>
+            <radius>0.4</radius>
+            <semimajoraxis>1.46</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

@@ -1,0 +1,30 @@
+<system>
+    <name>2MASS J22362452+4751425</name>
+    <declination>+47d51m42.6s</declination>
+    <distance>74.00</distance>
+    <rightascension>22h36m24.53s</rightascension>
+    <star>
+        <name>2MASS J22362452+4751425</name>
+        <age>0.120</age>
+        <magH>9.338</magH>
+        <magHmax>0.019</magHmax>
+        <magHmin>0.019</magHmin>
+        <magJ>9.975</magJ>
+        <magJmax>0.018</magJmax>
+        <magJmin>0.018</magJmin>
+        <magK>9.148</magK>
+        <magKmax>0.016</magKmax>
+        <magKmin>0.016</magKmin>
+        <magV>12.510</magV>
+        <magVmax>0.030</magVmax>
+        <magVmin>0.030</magVmin>
+        <mass>0.60</mass>
+        <temperature>4045.00</temperature>
+        <planet>
+            <name>2MASS J22362452+4751425 b</name>
+            <mass>12.50000</mass>
+            <semimajoraxis>230.000000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

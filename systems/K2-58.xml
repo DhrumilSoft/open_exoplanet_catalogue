@@ -1,0 +1,42 @@
+<system>
+    <name>K2-58</name>
+    <declination>-14d02m59.3s</declination>
+    <rightascension>22h15m17.24s</rightascension>
+    <star>
+        <name>K2-58</name>
+        <magH>10.314</magH>
+        <magHmax>0.023</magHmax>
+        <magHmin>0.023</magHmin>
+        <magJ>10.765</magJ>
+        <magJmax>0.022</magJmax>
+        <magJmin>0.022</magJmin>
+        <magK>10.215</magK>
+        <magKmax>0.021</magKmax>
+        <magKmin>0.021</magKmin>
+        <magV>12.378</magV>
+        <magVmax>0.030</magVmax>
+        <magVmin>0.030</magVmin>
+        <mass>0.89</mass>
+        <radius>0.86</radius>
+        <temperature>5413.00</temperature>
+        <planet>
+            <name>K2-58 c</name>
+            <period>2.53726000</period>
+            <radius>0.145</radius>
+            <semimajoraxis>0.035000</semimajoraxis>
+        </planet>
+        <planet>
+            <name>K2-58 b</name>
+            <period>7.05254000</period>
+            <radius>0.239</radius>
+            <semimajoraxis>0.069200</semimajoraxis>
+        </planet>
+        <planet>
+            <name>K2-58 d</name>
+            <period>22.88270000</period>
+            <radius>0.153</radius>
+            <semimajoraxis>0.151700</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
