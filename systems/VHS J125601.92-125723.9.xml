@@ -1,0 +1,33 @@
+<system>
+    <name>VHS J125601.92-125723.9</name>
+    <declination>-12d57m21.7s</declination>
+    <distance>12.70</distance>
+    <rightascension>12h56m02.15s</rightascension>
+    <star>
+        <name>VHS J125601.92-125723.9</name>
+        <age>0.225</age>
+        <magH>10.473</magH>
+        <magHmax>0.022</magHmax>
+        <magHmin>0.022</magHmin>
+        <magI>13.318</magI>
+        <magImax>0.039</magImax>
+        <magImin>0.039</magImin>
+        <magJ>11.018</magJ>
+        <magJmax>0.019</magJmax>
+        <magJmin>0.019</magJmin>
+        <magK>10.044</magK>
+        <magKmax>0.019</magKmax>
+        <magKmin>0.019</magKmin>
+        <magV>17.759</magV>
+        <magVmax>0.059</magVmax>
+        <magVmin>0.059</magVmin>
+        <mass>0.07</mass>
+        <temperature>2620.00</temperature>
+        <planet>
+            <name>VHS J125601.92-125723.9 b</name>
+            <mass>11.20000</mass>
+            <semimajoraxis>102.000000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

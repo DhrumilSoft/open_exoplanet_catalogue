@@ -1,0 +1,20 @@
+<system>
+    <name>KOI-5929</name>
+    <declination>+50 48 1</declination>
+    <rightascension>3 16 55</rightascension>
+    <star>
+        <name>KOI-5929</name>
+        <magV>15.2</magV>
+        <mass>0.86</mass>
+        <metallicity>-0.14</metallicity>
+        <radius>0.82</radius>
+        <temperature>5830.0</temperature>
+        <planet>
+            <name>KOI-5929 b</name>
+            <inclination>89.947</inclination>
+            <period>466.0001</period>
+            <radius>0.37</radius>
+        </planet>
+    </star>
+</system>
+

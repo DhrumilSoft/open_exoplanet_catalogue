@@ -1,0 +1,19 @@
+<system>
+    <name>PSR J2241-5236</name>
+    <declination>-53 37 36</declination>
+    <distance>500.0</distance>
+    <rightascension>4 47 57</rightascension>
+    <star>
+        <name>PSR J2241-5236</name>
+        <age>5.22</age>
+        <mass>1.35</mass>
+        <spectraltype>PSR</spectraltype>
+        <planet>
+            <name>PSR J2241-5236 b</name>
+            <eccentricity>0.0</eccentricity>
+            <mass>12.0</mass>
+            <period>0.1456722395</period>
+        </planet>
+    </star>
+</system>
+

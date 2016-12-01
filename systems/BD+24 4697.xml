@@ -1,0 +1,22 @@
+<system>
+    <name>BD+24 4697</name>
+    <declination>+26 47 17</declination>
+    <distance>48.8</distance>
+    <rightascension>4 50 17</rightascension>
+    <star>
+        <name>BD+24 4697</name>
+        <magV>9.74</magV>
+        <mass>0.75</mass>
+        <metallicity>-0.11</metallicity>
+        <temperature>5077.0</temperature>
+        <planet>
+            <name>BD+24 4697 b</name>
+            <eccentricity>0.50048</eccentricity>
+            <mass>53.0</mass>
+            <periastron>66.35</periastron>
+            <period>145.081</period>
+            <semimajoraxis>0.5</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

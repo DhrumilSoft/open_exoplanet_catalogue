@@ -1,0 +1,15 @@
+<system>
+    <name>MOA-2011-BLG-274</name>
+    <declination>-29 55 59</declination>
+    <distance>800.0</distance>
+    <rightascension>3 59 7</rightascension>
+    <star>
+        <name>MOA-2011-BLG-274</name>
+        <planet>
+            <name>MOA-2011-BLG-274 b</name>
+            <mass>0.8</mass>
+            <semimajoraxis>40.0</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

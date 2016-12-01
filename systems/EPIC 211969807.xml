@@ -1,0 +1,20 @@
+<system>
+    <name>EPIC 211969807</name>
+    <declination>+20 46 26</declination>
+    <rightascension>1 26 25</rightascension>
+    <star>
+        <name>EPIC 211969807</name>
+        <age>0.8</age>
+        <mass>0.51</mass>
+        <radius>0.48</radius>
+        <temperature>3660.0</temperature>
+        <planet>
+            <name>EPIC 211969807 b</name>
+            <eccentricity>0.18</eccentricity>
+            <inclination>88.0</inclination>
+            <period>1.97419</period>
+            <radius>0.17</radius>
+        </planet>
+    </star>
+</system>
+

@@ -1,0 +1,30 @@
+<system>
+    <name>K2-44</name>
+    <declination>-02d31m15.2s</declination>
+    <rightascension>11h36m02.79s</rightascension>
+    <star>
+        <name>K2-44</name>
+        <magH>10.696</magH>
+        <magHmax>0.021</magHmax>
+        <magHmin>0.021</magHmin>
+        <magJ>11.018</magJ>
+        <magJmax>0.026</magJmax>
+        <magJmin>0.026</magJmin>
+        <magK>10.693</magK>
+        <magKmax>0.024</magKmax>
+        <magKmin>0.024</magKmin>
+        <magV>12.189</magV>
+        <magVmax>0.120</magVmax>
+        <magVmin>0.120</magVmin>
+        <mass>1.15</mass>
+        <radius>1.58</radius>
+        <temperature>5912.00</temperature>
+        <planet>
+            <name>K2-44 b</name>
+            <period>5.65688000</period>
+            <radius>0.243</radius>
+            <semimajoraxis>0.065100</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

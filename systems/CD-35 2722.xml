@@ -1,0 +1,21 @@
+<system>
+    <name>CD-35 2722</name>
+    <declination>-36 50 31</declination>
+    <distance>21.3</distance>
+    <rightascension>1 2 33</rightascension>
+    <star>
+        <name>CD-35 2722</name>
+        <age>0.1</age>
+        <magV>10.98</magV>
+        <mass>0.4</mass>
+        <metallicity>0.04</metallicity>
+        <spectraltype>M1V</spectraltype>
+        <temperature>3680.0</temperature>
+        <planet>
+            <name>CD-35 2722 b</name>
+            <mass>31.0</mass>
+            <semimajoraxis>67.0</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
