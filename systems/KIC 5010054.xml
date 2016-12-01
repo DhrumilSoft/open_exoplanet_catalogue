@@ -1,0 +1,21 @@
+<system>
+    <name>KIC 5010054</name>
+    <declination>+40 11 58</declination>
+    <rightascension>3 14 20</rightascension>
+    <star>
+        <name>KIC 5010054</name>
+        <magV>14.5</magV>
+        <mass>1.05</mass>
+        <radius>2.17</radius>
+        <temperature>5550.0</temperature>
+        <planet>
+            <name>KIC 5010054 b</name>
+            <eccentricity>0.0</eccentricity>
+            <inclination>89.79</inclination>
+            <period>904.24</period>
+            <radius>0.62</radius>
+            <semimajoraxis>1.86</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

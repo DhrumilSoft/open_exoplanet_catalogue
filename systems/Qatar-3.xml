@@ -1,0 +1,25 @@
+<system>
+    <name>Qatar-3</name>
+    <declination>+36 13 47</declination>
+    <rightascension>4 59 26</rightascension>
+    <star>
+        <name>Qatar-3</name>
+        <age>4.079</age>
+        <alternatenames>UCAC3 253-304972</alternatenames>
+        <mass>1.145</mass>
+        <metallicity>-0.041</metallicity>
+        <radius>1.272</radius>
+        <temperature>6007.0</temperature>
+        <planet>
+            <name>Qatar-3 b</name>
+            <impactparameter>0.35</impactparameter>
+            <inclination>86.8</inclination>
+            <mass>4.31</mass>
+            <period>2.5079204</period>
+            <radius>1.096</radius>
+            <semimajoraxis>0.03783</semimajoraxis>
+            <temperature>84.0</temperature>
+        </planet>
+    </star>
+</system>
+

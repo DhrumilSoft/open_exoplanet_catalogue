@@ -1,0 +1,36 @@
+<system>
+    <name>K2-75</name>
+    <declination>-07d28m11.5s</declination>
+    <rightascension>22h35m22.76s</rightascension>
+    <star>
+        <name>K2-75</name>
+        <magH>11.283</magH>
+        <magHmax>0.026</magHmax>
+        <magHmin>0.026</magHmin>
+        <magJ>11.564</magJ>
+        <magJmax>0.029</magJmax>
+        <magJmin>0.029</magJmin>
+        <magK>11.178</magK>
+        <magKmax>0.019</magKmax>
+        <magKmin>0.019</magKmin>
+        <magV>12.701</magV>
+        <magVmax>0.031</magVmax>
+        <magVmin>0.031</magVmin>
+        <mass>1.16</mass>
+        <radius>1.56</radius>
+        <temperature>5995.00</temperature>
+        <planet>
+            <name>K2-75 c</name>
+            <period>18.31100000</period>
+            <radius>0.247</radius>
+            <semimajoraxis>0.142900</semimajoraxis>
+        </planet>
+        <planet>
+            <name>K2-75 b</name>
+            <period>7.81420000</period>
+            <radius>0.238</radius>
+            <semimajoraxis>0.081000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

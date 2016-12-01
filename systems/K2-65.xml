@@ -1,0 +1,31 @@
+<system>
+    <name>K2-65</name>
+    <declination>-10d55m31.4s</declination>
+    <distance>78.06</distance>
+    <rightascension>22h12m50.82s</rightascension>
+    <star>
+        <name>K2-65</name>
+        <magH>8.457</magH>
+        <magHmax>0.033</magHmax>
+        <magHmin>0.033</magHmin>
+        <magJ>8.967</magJ>
+        <magJmax>0.035</magJmax>
+        <magJmin>0.035</magJmin>
+        <magK>8.344</magK>
+        <magKmax>0.024</magKmax>
+        <magKmin>0.024</magKmin>
+        <magV>10.801</magV>
+        <magVmax>0.084</magVmax>
+        <magVmin>0.084</magVmin>
+        <mass>0.87</mass>
+        <radius>0.84</radius>
+        <temperature>5213.00</temperature>
+        <planet>
+            <name>K2-65 b</name>
+            <period>12.64750000</period>
+            <radius>0.141</radius>
+            <semimajoraxis>0.101400</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

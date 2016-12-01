@@ -1,0 +1,23 @@
+<system>
+    <name>HD 19467</name>
+    <declination>-14 46 42</declination>
+    <distance>30.86</distance>
+    <rightascension>1 31 13</rightascension>
+    <star>
+        <name>HD 19467</name>
+        <age>7.2</age>
+        <magV>7.0</magV>
+        <mass>0.95</mass>
+        <metallicity>-0.15</metallicity>
+        <radius>1.15</radius>
+        <spectraltype>G3V</spectraltype>
+        <temperature>5680.0</temperature>
+        <planet>
+            <name>HD 19467 b</name>
+            <mass>52.0</mass>
+            <semimajoraxis>51.1</semimajoraxis>
+            <temperature>978.0</temperature>
+        </planet>
+    </star>
+</system>
+

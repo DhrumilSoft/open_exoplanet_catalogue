@@ -1,0 +1,30 @@
+<system>
+    <name>K2-61</name>
+    <declination>-13d33m36.1s</declination>
+    <rightascension>22h38m41.94s</rightascension>
+    <star>
+        <name>K2-61</name>
+        <magH>11.423</magH>
+        <magHmax>0.021</magHmax>
+        <magHmin>0.021</magHmin>
+        <magJ>11.758</magJ>
+        <magJmax>0.022</magJmax>
+        <magJmin>0.022</magJmin>
+        <magK>11.385</magK>
+        <magKmax>0.024</magKmax>
+        <magKmin>0.024</magKmin>
+        <magV>12.991</magV>
+        <magVmax>0.020</magVmax>
+        <magVmin>0.020</magVmin>
+        <mass>1.21</mass>
+        <radius>1.36</radius>
+        <temperature>6293.00</temperature>
+        <planet>
+            <name>K2-61 b</name>
+            <period>2.57302000</period>
+            <radius>0.221</radius>
+            <semimajoraxis>0.039200</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

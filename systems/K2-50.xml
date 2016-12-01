@@ -1,0 +1,30 @@
+<system>
+    <name>K2-50</name>
+    <declination>+05d59m18.2s</declination>
+    <rightascension>11h17m56.07s</rightascension>
+    <star>
+        <name>K2-50</name>
+        <magH>11.765</magH>
+        <magHmax>0.023</magHmax>
+        <magHmin>0.023</magHmin>
+        <magJ>12.410</magJ>
+        <magJmax>0.027</magJmax>
+        <magJmin>0.027</magJmin>
+        <magK>11.664</magK>
+        <magKmax>0.023</magKmax>
+        <magKmin>0.023</magKmin>
+        <magV>14.717</magV>
+        <magVmax>0.050</magVmax>
+        <magVmin>0.050</magVmin>
+        <mass>0.61</mass>
+        <radius>0.55</radius>
+        <temperature>4326.00</temperature>
+        <planet>
+            <name>K2-50 b</name>
+            <period>8.75290000</period>
+            <radius>0.142</radius>
+            <semimajoraxis>0.070500</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

@@ -1,0 +1,24 @@
+<system>
+    <name>Qatar-5</name>
+    <declination>+42 4 41</declination>
+    <rightascension>0 5 42</rightascension>
+    <star>
+        <name>Qatar-5</name>
+        <age>5.47</age>
+        <alternatenames>UCAC3 265-004681</alternatenames>
+        <mass>1.128</mass>
+        <metallicity>0.377</metallicity>
+        <radius>1.076</radius>
+        <temperature>5747.0</temperature>
+        <planet>
+            <name>Qatar-5 b</name>
+            <impactparameter>0.18</impactparameter>
+            <inclination>88.74</inclination>
+            <mass>4.32</mass>
+            <period>2.8792319</period>
+            <radius>1.107</radius>
+            <semimajoraxis>0.04127</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

@@ -1,0 +1,27 @@
+<system>
+    <name>K2-69</name>
+    <declination>-10d29m18.9s</declination>
+    <rightascension>22h23m02.29s</rightascension>
+    <star>
+        <name>K2-69</name>
+        <magH>11.933</magH>
+        <magHmax>0.025</magHmax>
+        <magHmin>0.025</magHmin>
+        <magJ>12.608</magJ>
+        <magJmax>0.022</magJmax>
+        <magJmin>0.022</magJmin>
+        <magK>11.766</magK>
+        <magKmax>0.024</magKmax>
+        <magKmin>0.024</magKmin>
+        <mass>0.55</mass>
+        <radius>0.49</radius>
+        <temperature>4127.00</temperature>
+        <planet>
+            <name>K2-69 b</name>
+            <period>7.06599000</period>
+            <radius>0.207</radius>
+            <semimajoraxis>0.059100</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

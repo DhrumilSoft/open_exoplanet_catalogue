@@ -1,0 +1,58 @@
+<system>
+    <name>K2-32</name>
+    <declination>-19d32m34.2s</declination>
+    <rightascension>16h49m42.26s</rightascension>
+    <star>
+        <name>K2-32</name>
+        <magH>9.993</magH>
+        <magHmax>0.025</magHmax>
+        <magHmin>0.025</magHmin>
+        <magJ>10.404</magJ>
+        <magJmax>0.024</magJmax>
+        <magJmin>0.024</magJmin>
+        <magK>9.821</magK>
+        <magKmax>0.019</magKmax>
+        <magKmin>0.019</magKmin>
+        <magV>12.310</magV>
+        <magVmax>0.040</magVmax>
+        <magVmin>0.040</magVmin>
+        <mass>0.87</mass>
+        <metallicity>[Fe/H]</metallicity>
+        <radius>0.87</radius>
+        <temperature>5315.00</temperature>
+        <planet>
+            <name>K2-32 d</name>
+            <impactparameter>0.7900</impactparameter>
+            <inclination>88.400</inclination>
+            <period>31.71922000</period>
+            <radius>0.335</radius>
+            <semimajoraxis>0.187300</semimajoraxis>
+            <temperature>505</temperature>
+            <temperaturemax>16</temperaturemax>
+            <temperaturemin>-16</temperaturemin>
+        </planet>
+        <planet>
+            <name>K2-32 b</name>
+            <impactparameter>0.3300</impactparameter>
+            <inclination>89.000</inclination>
+            <period>8.99218000</period>
+            <radius>0.480</radius>
+            <semimajoraxis>0.080800</semimajoraxis>
+            <temperature>769</temperature>
+            <temperaturemax>25</temperaturemax>
+            <temperaturemin>-25</temperaturemin>
+        </planet>
+        <planet>
+            <name>K2-32 c</name>
+            <impactparameter>0.7400</impactparameter>
+            <inclination>88.230</inclination>
+            <period>20.65614000</period>
+            <radius>0.310</radius>
+            <semimajoraxis>0.140700</semimajoraxis>
+            <temperature>583</temperature>
+            <temperaturemax>19</temperaturemax>
+            <temperaturemin>-19</temperaturemin>
+        </planet>
+    </star>
+</system>
+

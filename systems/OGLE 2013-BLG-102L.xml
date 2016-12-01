@@ -1,0 +1,16 @@
+<system>
+    <name>OGLE 2013-BLG-102L</name>
+    <declination>-31d41m26.1s</declination>
+    <distance>3040.00</distance>
+    <rightascension>17h52m07.08s</rightascension>
+    <star>
+        <name>OGLE 2013-BLG-102L</name>
+        <mass>0.10</mass>
+        <planet>
+            <name>OGLE 2013-BLG-102L b</name>
+            <mass>12.56900</mass>
+            <semimajoraxis>0.800000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
