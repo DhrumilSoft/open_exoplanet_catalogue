@@ -1,0 +1,19 @@
+<system>
+    <name>2M 0103-55 (AB)</name>
+    <declination>-55 16 56</declination>
+    <distance>47.2</distance>
+    <rightascension>0 11 36</rightascension>
+    <star>
+        <name>2M 0103-55 (AB)</name>
+        <age>0.03</age>
+        <magJ>7.5</magJ>
+        <mass>0.4</mass>
+        <spectraltype>M</spectraltype>
+        <planet>
+            <name>2M 0103-55 (AB) b</name>
+            <mass>13.0</mass>
+            <semimajoraxis>84.0</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

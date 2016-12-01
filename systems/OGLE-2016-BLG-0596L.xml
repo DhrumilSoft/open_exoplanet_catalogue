@@ -1,0 +1,13 @@
+<system>
+    <name>OGLE-2016-BLG-0596L</name>
+    <declination>-31 51 59</declination>
+    <rightascension>3 59 32</rightascension>
+    <star>
+        <name>OGLE-2016-BLG-0596L</name>
+        <planet>
+            <name>OGLE-2016-BLG-596L b</name>
+            <mass>12.2</mass>
+        </planet>
+    </star>
+</system>
+

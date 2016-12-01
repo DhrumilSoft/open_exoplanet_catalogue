@@ -1,0 +1,30 @@
+<system>
+    <name>K2-45</name>
+    <declination>-01d46m26.9s</declination>
+    <rightascension>11h18m31.89s</rightascension>
+    <star>
+        <name>K2-45</name>
+        <magH>12.920</magH>
+        <magHmax>0.024</magHmax>
+        <magHmin>0.024</magHmin>
+        <magJ>13.536</magJ>
+        <magJmax>0.026</magJmax>
+        <magJmin>0.026</magJmin>
+        <magK>12.756</magK>
+        <magKmax>0.033</magKmax>
+        <magKmin>0.033</magKmin>
+        <magV>15.780</magV>
+        <magVmax>0.010</magVmax>
+        <magVmin>0.010</magVmin>
+        <mass>0.50</mass>
+        <radius>0.45</radius>
+        <temperature>4103.00</temperature>
+        <planet>
+            <name>K2-45 b</name>
+            <period>1.72926840</period>
+            <radius>0.599</radius>
+            <semimajoraxis>0.022400</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

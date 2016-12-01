@@ -1,0 +1,20 @@
+<system>
+    <name>2M 0122-24</name>
+    <declination>-25 37 51</declination>
+    <distance>36.0</distance>
+    <rightascension>0 14 48</rightascension>
+    <star>
+        <name>2M 0122-24</name>
+        <age>0.12</age>
+        <mass>0.4</mass>
+        <spectraltype>M3.5</spectraltype>
+        <planet>
+            <name>2M 0122-24 b</name>
+            <mass>20.0</mass>
+            <radius>1.0</radius>
+            <semimajoraxis>52.0</semimajoraxis>
+            <temperature>1380.0</temperature>
+        </planet>
+    </star>
+</system>
+

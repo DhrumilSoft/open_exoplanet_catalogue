@@ -1,0 +1,24 @@
+<system>
+    <name>Qatar-4</name>
+    <declination>+44 2 39</declination>
+    <rightascension>0 3 14</rightascension>
+    <star>
+        <name>Qatar-4</name>
+        <age>12.9</age>
+        <alternatenames>UCAC3 269-003518</alternatenames>
+        <mass>0.954</mass>
+        <metallicity>0.166</metallicity>
+        <radius>1.115</radius>
+        <temperature>5219.0</temperature>
+        <planet>
+            <name>Qatar-4 b</name>
+            <impactparameter>0.114</impactparameter>
+            <inclination>88.82</inclination>
+            <mass>5.85</mass>
+            <period>1.8053949</period>
+            <radius>1.552</radius>
+            <semimajoraxis>0.02861</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

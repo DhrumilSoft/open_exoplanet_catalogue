@@ -1,0 +1,20 @@
+<system>
+    <name>beta Cir</name>
+    <declination>-59 48 4</declination>
+    <distance>30.56</distance>
+    <rightascension>3 33 55</rightascension>
+    <star>
+        <name>beta Cir</name>
+        <age>0.367</age>
+        <mass>1.96</mass>
+        <spectraltype>A3V</spectraltype>
+        <temperature>8676.0</temperature>
+        <planet>
+            <name>beta Cir b</name>
+            <mass>56.0</mass>
+            <semimajoraxis>6656.0</semimajoraxis>
+            <temperature>2084.0</temperature>
+        </planet>
+    </star>
+</system>
+

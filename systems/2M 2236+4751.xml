@@ -1,0 +1,20 @@
+<system>
+    <name>2M 2236+4751</name>
+    <declination>+48 52 43</declination>
+    <distance>63.0</distance>
+    <rightascension>4 46 4</rightascension>
+    <star>
+        <name>2M 2236+4751</name>
+        <age>0.12</age>
+        <magV>12.5</magV>
+        <mass>0.6</mass>
+        <spectraltype>K7</spectraltype>
+        <planet>
+            <name>2M 2236+4751 b</name>
+            <mass>12.5</mass>
+            <semimajoraxis>230.0</semimajoraxis>
+            <temperature>1200.0</temperature>
+        </planet>
+    </star>
+</system>
+

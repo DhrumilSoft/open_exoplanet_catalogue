@@ -1,0 +1,23 @@
+<system>
+    <name>KIC 12454613</name>
+    <declination>+51 23 56</declination>
+    <rightascension>3 12 7</rightascension>
+    <star>
+        <name>KIC 12454613</name>
+        <magV>14.0</magV>
+        <mass>0.87</mass>
+        <metallicity>0.03</metallicity>
+        <radius>0.82</radius>
+        <temperature>5420.0</temperature>
+        <planet>
+            <name>KIC 12454613 b</name>
+            <eccentricity>0.16</eccentricity>
+            <impactparameter>0.37</impactparameter>
+            <inclination>89.95</inclination>
+            <period>736.3819</period>
+            <radius>0.228</radius>
+            <semimajoraxis>1.54</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

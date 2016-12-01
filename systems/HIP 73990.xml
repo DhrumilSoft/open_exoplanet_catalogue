@@ -1,0 +1,26 @@
+<system>
+    <name>HIP 73990</name>
+    <declination>-30 30 16</declination>
+    <distance>125.0</distance>
+    <rightascension>3 31 13</rightascension>
+    <star>
+        <name>HIP 73990</name>
+        <age>0.015</age>
+        <alternatenames>HD 133803</alternatenames>
+        <magV>8.12</magV>
+        <mass>1.72</mass>
+        <spectraltype>A9V</spectraltype>
+        <temperature>7450.0</temperature>
+        <planet>
+            <name>HIP 73990 c</name>
+            <mass>22.0</mass>
+            <semimajoraxis>32.0</semimajoraxis>
+        </planet>
+        <planet>
+            <name>HIP 73990 b</name>
+            <mass>21.0</mass>
+            <semimajoraxis>20.0</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

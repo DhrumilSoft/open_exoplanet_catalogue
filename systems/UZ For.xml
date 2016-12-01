@@ -1,0 +1,33 @@
+<system>
+    <name>UZ For</name>
+    <declination>-25d44m21.8s</declination>
+    <rightascension>03h35m28.64s</rightascension>
+    <star>
+        <name>UZ For</name>
+        <magH>14.897</magH>
+        <magHmax>0.076</magHmax>
+        <magHmin>0.076</magHmin>
+        <magJ>15.317</magJ>
+        <magJmax>0.041</magJmax>
+        <magJmin>0.041</magJmin>
+        <magK>14.776</magK>
+        <magKmax>0.124</magKmax>
+        <magKmin>0.124</magKmin>
+        <mass>0.70</mass>
+        <planet>
+            <name>UZ For c</name>
+            <eccentricity>0.050000</eccentricity>
+            <mass>7.70000</mass>
+            <period>1916.25000000</period>
+            <semimajoraxis>2.800000</semimajoraxis>
+        </planet>
+        <planet>
+            <name>UZ For b</name>
+            <eccentricity>0.040000</eccentricity>
+            <mass>6.30000</mass>
+            <period>5840.00000000</period>
+            <semimajoraxis>5.900000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

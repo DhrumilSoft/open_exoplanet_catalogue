@@ -1,0 +1,16 @@
+<system>
+    <name>HIP 77900</name>
+    <declination>-27 20 19</declination>
+    <rightascension>3 39 5</rightascension>
+    <star>
+        <name>HIP 77900</name>
+        <spectraltype>B6</spectraltype>
+        <temperature>13700.0</temperature>
+        <planet>
+            <name>HIP 77900 b</name>
+            <mass>20.0</mass>
+            <semimajoraxis>3200.0</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

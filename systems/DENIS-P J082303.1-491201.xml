@@ -1,0 +1,30 @@
+<system>
+    <name>DENIS-P J082303.1-491201</name>
+    <declination>-49d12m01.3s</declination>
+    <distance>20.77</distance>
+    <rightascension>08h23m03.13s</rightascension>
+    <star>
+        <name>DENIS-P J082303.1-491201</name>
+        <age>1.000</age>
+        <magH>12.636</magH>
+        <magHmax>0.020</magHmax>
+        <magHmin>0.020</magHmin>
+        <magJ>13.547</magJ>
+        <magJmax>0.023</magJmax>
+        <magJmin>0.023</magJmin>
+        <magK>12.062</magK>
+        <magKmax>0.021</magKmax>
+        <magKmin>0.021</magKmin>
+        <mass>0.07</mass>
+        <planet>
+            <name>DENIS-P J082303.1-491201 b</name>
+            <eccentricity>0.345000</eccentricity>
+            <inclination>56.600</inclination>
+            <mass>28.50000</mass>
+            <periastron>36.3000</periastron>
+            <period>246.36000000</period>
+            <semimajoraxis>0.360000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
