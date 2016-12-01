@@ -1,0 +1,20 @@
+<system>
+    <name>KIC 8012732</name>
+    <declination>+44 52 51</declination>
+    <rightascension>3 10 49</rightascension>
+    <star>
+        <name>KIC 8012732</name>
+        <magV>14.3</magV>
+        <mass>0.92</mass>
+        <metallicity>0.2</metallicity>
+        <radius>1.22</radius>
+        <temperature>6221.0</temperature>
+        <planet>
+            <name>KIC 8012732 b</name>
+            <inclination>89.741</inclination>
+            <period>431.4681</period>
+            <radius>0.87</radius>
+        </planet>
+    </star>
+</system>
+

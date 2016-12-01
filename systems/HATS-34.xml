@@ -1,0 +1,26 @@
+<system>
+    <name>HATS-34</name>
+    <declination>-62 28 10</declination>
+    <distance>532.0</distance>
+    <rightascension>0 1 31</rightascension>
+    <star>
+        <name>HATS-34</name>
+        <age>7.7</age>
+        <magV>13.85</magV>
+        <mass>0.955</mass>
+        <metallicity>0.25</metallicity>
+        <radius>0.98</radius>
+        <temperature>5380.0</temperature>
+        <planet>
+            <name>HATS-34 b</name>
+            <eccentricity>0.0</eccentricity>
+            <impactparameter>0.937</impactparameter>
+            <inclination>82.28</inclination>
+            <mass>0.941</mass>
+            <period>2.1061607</period>
+            <radius>1.43</radius>
+            <semimajoraxis>0.03166</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

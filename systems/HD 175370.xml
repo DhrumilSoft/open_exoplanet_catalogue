@@ -1,0 +1,26 @@
+<system>
+    <name>HD 175370</name>
+    <declination>+44 43 49</declination>
+    <distance>272.0</distance>
+    <rightascension>3 9 50</rightascension>
+    <star>
+        <name>HD 175370</name>
+        <age>8.7</age>
+        <magV>7.19</magV>
+        <mass>1.02</mass>
+        <metallicity>-0.52</metallicity>
+        <radius>23.5</radius>
+        <spectraltype>K2 III</spectraltype>
+        <temperature>4301.0</temperature>
+        <planet>
+            <name>HD 175370 b</name>
+            <eccentricity>0.22</eccentricity>
+            <mass>4.6</mass>
+            <massother>4.6</massother>
+            <periastron>162.0</periastron>
+            <period>349.5</period>
+            <semimajoraxis>0.98</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

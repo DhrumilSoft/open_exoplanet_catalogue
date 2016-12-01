@@ -1,0 +1,25 @@
+<system>
+    <name>OGLE-2012-BLG-0950L</name>
+    <declination>-30 44 54</declination>
+    <distance>3000.0</distance>
+    <rightascension>3 1 21</rightascension>
+    <star>
+        <name>OGLE-2012-BLG-0950L</name>
+        <alternatenames> MOA-2012- BLG-527</alternatenames>
+        <mass>0.56</mass>
+        <spectraltype>M</spectraltype>
+        <temperature>5500.0</temperature>
+        <planet>
+            <name>OGL-2012-BLG-0950L b</name>
+            <alternatenames> MOA-2012- BLG-527 b</alternatenames>
+            <mass>0.11</mass>
+            <semimajoraxis>2.7</semimajoraxis>
+        </planet>
+        <planet>
+            <name>OGLE-2012-BLG-0950L b</name>
+            <mass>0.11012</mass>
+            <semimajoraxis>2.700000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

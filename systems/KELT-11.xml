@@ -1,0 +1,27 @@
+<system>
+    <name>KELT-11</name>
+    <declination>-9 24 57</declination>
+    <distance>98.0</distance>
+    <rightascension>2 48 48</rightascension>
+    <star>
+        <name>KELT-11</name>
+        <alternatenames>HD 93396</alternatenames>
+        <magV>8.0</magV>
+        <mass>1.438</mass>
+        <metallicity>0.18</metallicity>
+        <radius>2.72</radius>
+        <spectraltype>G8</spectraltype>
+        <temperature>5370.0</temperature>
+        <planet>
+            <name>KELT-11 b</name>
+            <eccentricity>0.0</eccentricity>
+            <impactparameter>0.36</impactparameter>
+            <inclination>85.8</inclination>
+            <mass>0.195</mass>
+            <period>4.736529</period>
+            <radius>1.37</radius>
+            <semimajoraxis>0.06229</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
