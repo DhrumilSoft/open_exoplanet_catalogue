@@ -1,0 +1,36 @@
+<system>
+    <name>K2-62</name>
+    <declination>-12d11m15.0s</declination>
+    <rightascension>22h17m27.40s</rightascension>
+    <star>
+        <name>K2-62</name>
+        <magH>9.811</magH>
+        <magHmax>0.025</magHmax>
+        <magHmin>0.025</magHmin>
+        <magJ>10.374</magJ>
+        <magJmax>0.023</magJmax>
+        <magJmin>0.023</magJmin>
+        <magK>9.688</magK>
+        <magKmax>0.023</magKmax>
+        <magKmin>0.023</magKmin>
+        <magV>12.397</magV>
+        <magVmax>0.040</magVmax>
+        <magVmin>0.040</magVmin>
+        <mass>0.77</mass>
+        <radius>0.73</radius>
+        <temperature>4880.00</temperature>
+        <planet>
+            <name>K2-62 b</name>
+            <period>6.67202000</period>
+            <radius>0.191</radius>
+            <semimajoraxis>0.063600</semimajoraxis>
+        </planet>
+        <planet>
+            <name>K2-62 c</name>
+            <period>16.19660000</period>
+            <radius>0.191</radius>
+            <semimajoraxis>0.114800</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

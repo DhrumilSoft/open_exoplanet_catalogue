@@ -1,0 +1,33 @@
+<system>
+    <name>HD 111998</name>
+    <declination>-03d33m11.2s</declination>
+    <distance>32.73</distance>
+    <rightascension>12h53m11.16s</rightascension>
+    <star>
+        <name>HD 111998</name>
+        <age>1.900</age>
+        <magH>5.082</magH>
+        <magHmax>0.022</magHmax>
+        <magHmin>0.022</magHmin>
+        <magJ>5.300</magJ>
+        <magJmax>0.018</magJmax>
+        <magJmin>0.018</magJmin>
+        <magK>4.993</magK>
+        <magKmax>0.022</magKmax>
+        <magKmin>0.022</magKmin>
+        <magV>6.110</magV>
+        <mass>1.18</mass>
+        <metallicity>[Fe/H]</metallicity>
+        <radius>1.45</radius>
+        <temperature>6557.00</temperature>
+        <planet>
+            <name>HD 111998 b</name>
+            <eccentricity>0.030000</eccentricity>
+            <massother>4.51000</massother>
+            <periastron>-87.3000</periastron>
+            <period>825.90000000</period>
+            <semimajoraxis>1.820000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

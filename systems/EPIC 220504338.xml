@@ -1,0 +1,26 @@
+<system>
+    <name>EPIC 220504338</name>
+    <declination>+7 42 8</declination>
+    <distance>553.4</distance>
+    <rightascension>0 13 58</rightascension>
+    <star>
+        <name>EPIC 220504338</name>
+        <age>5.9</age>
+        <magV>13.68</magV>
+        <mass>1.007</mass>
+        <metallicity>0.18</metallicity>
+        <radius>1.047</radius>
+        <spectraltype>G</spectraltype>
+        <temperature>5627.0</temperature>
+        <planet>
+            <name>EPIC 220504338</name>
+            <eccentricity>0.0</eccentricity>
+            <inclination>86.44</inclination>
+            <mass>1.28</mass>
+            <period>5.817712</period>
+            <radius>0.91</radius>
+            <semimajoraxis>0.0575</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

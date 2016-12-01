@@ -1,0 +1,27 @@
+<system>
+    <name>38 Vir</name>
+    <declination>-4 33 11</declination>
+    <rightascension>2 9 52</rightascension>
+    <star>
+        <name>38 Vir</name>
+        <age>1.9</age>
+        <alternatenames>HD 111998, HIP 62875,</alternatenames>
+        <magV>6.11</magV>
+        <mass>1.18</mass>
+        <metallicity>0.07</metallicity>
+        <radius>1.45</radius>
+        <spectraltype>F6 V</spectraltype>
+        <temperature>6557.0</temperature>
+        <planet>
+            <name>38 Vir b</name>
+            <alternatenames>HD 111998 b</alternatenames>
+            <eccentricity>0.03</eccentricity>
+            <mass>4.51</mass>
+            <massother>4.51</massother>
+            <period>825.9</period>
+            <radius>4.51</radius>
+            <semimajoraxis>1.82</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

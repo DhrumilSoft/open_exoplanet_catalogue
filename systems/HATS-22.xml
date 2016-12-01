@@ -1,0 +1,27 @@
+<system>
+    <name>HATS-22</name>
+    <declination>-30 36 2</declination>
+    <distance>207.9</distance>
+    <rightascension>2 56 0</rightascension>
+    <star>
+        <name>HATS-22</name>
+        <age>4.6</age>
+        <magV>13.46</magV>
+        <mass>0.759</mass>
+        <metallicity>0.0</metallicity>
+        <radius>0.689</radius>
+        <temperature>4803.0</temperature>
+        <planet>
+            <name>HATS-22 b</name>
+            <eccentricity>0.079</eccentricity>
+            <impactparameter>0.536</impactparameter>
+            <inclination>87.96</inclination>
+            <mass>2.74</mass>
+            <periastron>56.0</periastron>
+            <period>4.7228124</period>
+            <radius>0.953</radius>
+            <semimajoraxis>0.05025</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
