@@ -1,0 +1,30 @@
+<system>
+    <name>K2-85</name>
+    <declination>+18d27m54.9s</declination>
+    <rightascension>03h57m51.45s</rightascension>
+    <star>
+        <name>K2-85</name>
+        <magH>9.613</magH>
+        <magHmax>0.024</magHmax>
+        <magHmin>0.024</magHmin>
+        <magJ>10.229</magJ>
+        <magJmax>0.024</magJmax>
+        <magJmin>0.024</magJmin>
+        <magK>9.466</magK>
+        <magKmax>0.018</magKmax>
+        <magKmin>0.018</magKmin>
+        <magV>12.831</magV>
+        <magVmax>0.470</magVmax>
+        <magVmin>0.470</magVmin>
+        <mass>0.57</mass>
+        <radius>0.51</radius>
+        <temperature>4268.00</temperature>
+        <planet>
+            <name>K2-85 b</name>
+            <period>0.68453300</period>
+            <radius>0.090</radius>
+            <semimajoraxis>0.012630</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

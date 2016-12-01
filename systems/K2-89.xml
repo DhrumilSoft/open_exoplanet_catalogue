@@ -1,0 +1,30 @@
+<system>
+    <name>K2-89</name>
+    <declination>+20d27m34.7s</declination>
+    <rightascension>03h48m16.01s</rightascension>
+    <star>
+        <name>K2-89</name>
+        <magH>10.318</magH>
+        <magHmax>0.027</magHmax>
+        <magHmin>0.027</magHmin>
+        <magJ>10.933</magJ>
+        <magJmax>0.020</magJmax>
+        <magJmin>0.020</magJmin>
+        <magK>10.106</magK>
+        <magKmax>0.018</magKmax>
+        <magKmin>0.018</magKmin>
+        <magV>14.162</magV>
+        <magVmax>0.050</magVmax>
+        <magVmin>0.050</magVmin>
+        <mass>0.35</mass>
+        <radius>0.32</radius>
+        <temperature>3691.00</temperature>
+        <planet>
+            <name>K2-89 b</name>
+            <period>1.09602600</period>
+            <radius>0.055</radius>
+            <semimajoraxis>0.014620</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

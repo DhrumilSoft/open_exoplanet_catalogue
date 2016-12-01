@@ -1,0 +1,22 @@
+<system>
+    <name>OGLE 2012-BLG-26L</name>
+    <declination>-27d08m33.9s</declination>
+    <distance>4019.00</distance>
+    <rightascension>17h34m18.70s</rightascension>
+    <star>
+        <name>OGLE 2012-BLG-26L</name>
+        <age>5.000</age>
+        <mass>1.06</mass>
+        <planet>
+            <name>OGLE 2012-BLG-26L c</name>
+            <mass>0.86000</mass>
+            <semimajoraxis>4.800000</semimajoraxis>
+        </planet>
+        <planet>
+            <name>OGLE 2012-BLG-26L b</name>
+            <mass>0.14500</mass>
+            <semimajoraxis>4.000000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

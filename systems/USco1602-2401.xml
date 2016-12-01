@@ -1,0 +1,17 @@
+<system>
+    <name>USco1602-2401</name>
+    <declination>-24 2 50</declination>
+    <rightascension>3 40 29</rightascension>
+    <star>
+        <name>USco1602-2401</name>
+        <magJ>12.5</magJ>
+        <spectraltype>K4</spectraltype>
+        <temperature>4550.0</temperature>
+        <planet>
+            <name>USco1602-2401 b</name>
+            <mass>47.0</mass>
+            <semimajoraxis>1000.0</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
