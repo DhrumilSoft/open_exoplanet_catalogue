@@ -1,0 +1,30 @@
+<system>
+    <name>K2-82</name>
+    <declination>+15d08m13.7s</declination>
+    <rightascension>03h54m03.57s</rightascension>
+    <star>
+        <name>K2-82</name>
+        <magH>11.013</magH>
+        <magHmax>0.028</magHmax>
+        <magHmin>0.028</magHmin>
+        <magJ>11.630</magJ>
+        <magJmax>0.026</magJmax>
+        <magJmin>0.026</magJmin>
+        <magK>10.886</magK>
+        <magKmax>0.018</magKmax>
+        <magKmin>0.018</magKmin>
+        <magV>14.012</magV>
+        <magVmax>0.160</magVmax>
+        <magVmin>0.160</magVmin>
+        <mass>0.15</mass>
+        <radius>0.17</radius>
+        <temperature>3415.00</temperature>
+        <planet>
+            <name>K2-82 b</name>
+            <period>7.19583400</period>
+            <radius>0.232</radius>
+            <semimajoraxis>0.039200</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

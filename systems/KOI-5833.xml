@@ -1,0 +1,20 @@
+<system>
+    <name>KOI-5833</name>
+    <declination>+48 13 13</declination>
+    <rightascension>3 11 4</rightascension>
+    <star>
+        <name>KOI-5833</name>
+        <magV>13.4</magV>
+        <mass>0.98</mass>
+        <metallicity>-0.46</metallicity>
+        <radius>1.0</radius>
+        <temperature>6277.0</temperature>
+        <planet>
+            <name>KOI-5833 b</name>
+            <inclination>89.57</inclination>
+            <period>440.167</period>
+            <radius>0.31</radius>
+        </planet>
+    </star>
+</system>
+

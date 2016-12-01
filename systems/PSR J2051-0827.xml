@@ -1,0 +1,19 @@
+<system>
+    <name>PSR J2051-0827</name>
+    <declination>-8 28 38</declination>
+    <distance>1280.0</distance>
+    <rightascension>3 29 31</rightascension>
+    <star>
+        <name>PSR J2051-0827</name>
+        <age>5.61</age>
+        <mass>1.4</mass>
+        <spectraltype>PSR</spectraltype>
+        <planet>
+            <name>PSR J2051-0827 b</name>
+            <eccentricity>0.0</eccentricity>
+            <mass>28.3</mass>
+            <period>0.099110266</period>
+        </planet>
+    </star>
+</system>
+

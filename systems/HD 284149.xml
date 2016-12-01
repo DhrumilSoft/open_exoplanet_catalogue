@@ -1,0 +1,21 @@
+<system>
+    <name>HD 284149</name>
+    <declination>+20 18 11</declination>
+    <distance>108.2</distance>
+    <rightascension>1 41 7</rightascension>
+    <star>
+        <name>HD 284149</name>
+        <age>0.025</age>
+        <magV>9.63</magV>
+        <mass>1.14</mass>
+        <spectraltype>F8</spectraltype>
+        <temperature>6040.0</temperature>
+        <planet>
+            <name>HD 284149 b</name>
+            <mass>32.0</mass>
+            <semimajoraxis>400.0</semimajoraxis>
+            <temperature>2537.0</temperature>
+        </planet>
+    </star>
+</system>
+

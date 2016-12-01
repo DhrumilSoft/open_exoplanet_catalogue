@@ -1,0 +1,22 @@
+<system>
+    <name>2M 0219-39</name>
+    <declination>-39 25 23</declination>
+    <distance>39.4</distance>
+    <rightascension>0 23 14</rightascension>
+    <star>
+        <name>2M 0219-39</name>
+        <alternatenames>2MASS J0292210-3925225</alternatenames>
+        <mass>0.11</mass>
+        <radius>0.27</radius>
+        <spectraltype>M6</spectraltype>
+        <temperature>3064.0</temperature>
+        <planet>
+            <name>2M 0219-39 b</name>
+            <mass>13.9</mass>
+            <radius>1.44</radius>
+            <semimajoraxis>156.0</semimajoraxis>
+            <temperature>1683.0</temperature>
+        </planet>
+    </star>
+</system>
+

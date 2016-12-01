@@ -1,0 +1,26 @@
+<system>
+    <name>HATS-35</name>
+    <declination>-64 34 56</declination>
+    <distance>557.0</distance>
+    <rightascension>3 18 48</rightascension>
+    <star>
+        <name>HATS-35</name>
+        <age>2.13</age>
+        <magV>12.56</magV>
+        <mass>1.317</mass>
+        <metallicity>0.21</metallicity>
+        <radius>1.433</radius>
+        <temperature>6300.0</temperature>
+        <planet>
+            <name>HATS-35 b</name>
+            <eccentricity>0.0</eccentricity>
+            <impactparameter>0.26</impactparameter>
+            <inclination>86.9</inclination>
+            <mass>1.222</mass>
+            <period>1.8209933</period>
+            <radius>1.464</radius>
+            <semimajoraxis>0.03199</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

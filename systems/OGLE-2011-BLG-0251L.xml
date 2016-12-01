@@ -1,0 +1,16 @@
+<system>
+    <name>OGLE-2011-BLG-0251L</name>
+    <declination>-27 8 10</declination>
+    <distance>4090.0</distance>
+    <rightascension>3 56 22</rightascension>
+    <star>
+        <name>OGLE-2011-BLG-0251L</name>
+        <mass>0.47</mass>
+        <planet>
+            <name>OGLE-2011-BLG-0251L b</name>
+            <mass>0.96</mass>
+            <semimajoraxis>3.86</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

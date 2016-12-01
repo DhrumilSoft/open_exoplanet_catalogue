@@ -1,0 +1,36 @@
+<system>
+    <name>K2-59</name>
+    <declination>-14d01m39.9s</declination>
+    <rightascension>22h35m46.16s</rightascension>
+    <star>
+        <name>K2-59</name>
+        <magH>11.981</magH>
+        <magHmax>0.021</magHmax>
+        <magHmin>0.021</magHmin>
+        <magJ>12.454</magJ>
+        <magJmax>0.023</magJmax>
+        <magJmin>0.023</magJmin>
+        <magK>11.838</magK>
+        <magKmax>0.023</magKmax>
+        <magKmin>0.023</magKmin>
+        <magV>14.226</magV>
+        <magVmax>0.030</magVmax>
+        <magVmin>0.030</magVmin>
+        <mass>0.77</mass>
+        <radius>0.73</radius>
+        <temperature>5055.00</temperature>
+        <planet>
+            <name>K2-59 c</name>
+            <period>11.29540000</period>
+            <radius>0.205</radius>
+            <semimajoraxis>0.090500</semimajoraxis>
+        </planet>
+        <planet>
+            <name>K2-59 b</name>
+            <period>20.69210000</period>
+            <radius>0.215</radius>
+            <semimajoraxis>0.135400</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
