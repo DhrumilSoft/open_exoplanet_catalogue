@@ -1,0 +1,30 @@
+<system>
+    <name>K2-64</name>
+    <declination>-11d25m43.5s</declination>
+    <rightascension>22h09m39.27s</rightascension>
+    <star>
+        <name>K2-64</name>
+        <magH>12.258</magH>
+        <magHmax>0.023</magHmax>
+        <magHmin>0.023</magHmin>
+        <magJ>12.665</magJ>
+        <magJmax>0.026</magJmax>
+        <magJmin>0.026</magJmin>
+        <magK>12.201</magK>
+        <magKmax>0.025</magKmax>
+        <magKmin>0.025</magKmin>
+        <magV>14.086</magV>
+        <magVmax>0.010</magVmax>
+        <magVmin>0.010</magVmin>
+        <mass>0.74</mass>
+        <radius>0.73</radius>
+        <temperature>5312.00</temperature>
+        <planet>
+            <name>K2-64 b</name>
+            <period>6.53044000</period>
+            <radius>0.185</radius>
+            <semimajoraxis>0.061900</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

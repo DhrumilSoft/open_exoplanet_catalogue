@@ -1,0 +1,30 @@
+<system>
+    <name>K2-66</name>
+    <declination>-10d42m41.6s</declination>
+    <rightascension>22h06m06.41s</rightascension>
+    <star>
+        <name>K2-66</name>
+        <magH>10.664</magH>
+        <magHmax>0.026</magHmax>
+        <magHmin>0.026</magHmin>
+        <magJ>10.948</magJ>
+        <magJmax>0.023</magJmax>
+        <magJmin>0.023</magJmin>
+        <magK>10.609</magK>
+        <magKmax>0.021</magKmax>
+        <magKmin>0.021</magKmin>
+        <magV>11.710</magV>
+        <magVmax>0.186</magVmax>
+        <magVmin>0.186</magVmin>
+        <mass>1.16</mass>
+        <radius>1.71</radius>
+        <temperature>5958.00</temperature>
+        <planet>
+            <name>K2-66 b</name>
+            <period>5.06965000</period>
+            <radius>0.222</radius>
+            <semimajoraxis>0.060690</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

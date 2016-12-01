@@ -1,0 +1,33 @@
+<system>
+    <name>Kepler-1647</name>
+    <declination>+40d39m22.2s</declination>
+    <rightascension>19h52m36.02s</rightascension>
+    <star>
+        <name>Kepler-1647</name>
+        <age>4.400</age>
+        <magH>12.078</magH>
+        <magHmax>0.026</magHmax>
+        <magHmin>0.026</magHmin>
+        <magJ>12.376</magJ>
+        <magJmax>0.024</magJmax>
+        <magJmin>0.024</magJmin>
+        <magK>12.007</magK>
+        <magKmax>0.024</magKmax>
+        <magKmin>0.024</magKmin>
+        <mass>1.22</mass>
+        <metallicity>[Fe/H]</metallicity>
+        <radius>1.79</radius>
+        <temperature>6210.00</temperature>
+        <planet>
+            <name>Kepler-1647 b</name>
+            <eccentricity>0.058100</eccentricity>
+            <inclination>90.097</inclination>
+            <mass>1.51968</mass>
+            <periastron>155.0464</periastron>
+            <period>1107.59230000</period>
+            <radius>1.059</radius>
+            <semimajoraxis>2.720500</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

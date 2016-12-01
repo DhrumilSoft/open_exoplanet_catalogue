@@ -1,0 +1,31 @@
+<system>
+    <name>HD 87646 A</name>
+    <declination>+18 54 42</declination>
+    <rightascension>2 41 7</rightascension>
+    <star>
+        <name>HD 87646 A</name>
+        <magV>8.0</magV>
+        <mass>1.12</mass>
+        <metallicity>-0.17</metallicity>
+        <radius>1.55</radius>
+        <spectraltype>G1IV</spectraltype>
+        <temperature>5770.0</temperature>
+        <planet>
+            <name>HD 87646A b</name>
+            <eccentricity>0.05</eccentricity>
+            <mass>12.4</mass>
+            <massother>12.4</massother>
+            <period>13.481</period>
+            <semimajoraxis>0.117</semimajoraxis>
+        </planet>
+        <planet>
+            <name>HD 87646A c</name>
+            <eccentricity>0.5</eccentricity>
+            <mass>57.0</mass>
+            <massother>57.0</massother>
+            <period>674.0</period>
+            <semimajoraxis>1.58</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

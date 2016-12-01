@@ -1,0 +1,27 @@
+<system>
+    <name>OGLE-2006-109L</name>
+    <declination>-30 5 16</declination>
+    <distance>1510.0</distance>
+    <rightascension>3 59 46</rightascension>
+    <star>
+        <name>OGLE-2006-109L</name>
+        <magH>17.17</magH>
+        <mass>0.51</mass>
+        <planet>
+            <name>OGLE-2006-109L c</name>
+            <eccentricity>0.15</eccentricity>
+            <inclination>64.0</inclination>
+            <mass>0.271</mass>
+            <period>4931.0</period>
+            <semimajoraxis>4.5</semimajoraxis>
+        </planet>
+        <planet>
+            <name>OGLE-2006-109L b</name>
+            <inclination>64.0</inclination>
+            <mass>0.727</mass>
+            <period>1790.0</period>
+            <semimajoraxis>2.3</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

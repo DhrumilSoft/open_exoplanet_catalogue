@@ -1,0 +1,47 @@
+<system>
+    <name>K2-36</name>
+    <declination>+03d51m59.0s</declination>
+    <rightascension>11h17m47.78s</rightascension>
+    <star>
+        <name>K2-36</name>
+        <magH>9.549</magH>
+        <magHmax>0.021</magHmax>
+        <magHmin>0.021</magHmin>
+        <magJ>10.034</magJ>
+        <magJmax>0.022</magJmax>
+        <magJmin>0.022</magJmin>
+        <magK>9.454</magK>
+        <magKmax>0.025</magKmax>
+        <magKmin>0.025</magKmin>
+        <magV>11.800</magV>
+        <magVmax>0.030</magVmax>
+        <magVmin>0.030</magVmin>
+        <mass>0.80</mass>
+        <metallicity>[Fe/H]</metallicity>
+        <radius>0.74</radius>
+        <temperature>4924.00</temperature>
+        <planet>
+            <name>K2-36 c</name>
+            <impactparameter>0.7200</impactparameter>
+            <inclination>88.330</inclination>
+            <period>5.34059000</period>
+            <radius>0.250</radius>
+            <semimajoraxis>0.055500</semimajoraxis>
+            <temperature>793</temperature>
+            <temperaturemax>23</temperaturemax>
+            <temperaturemin>-23</temperaturemin>
+        </planet>
+        <planet>
+            <name>K2-36 b</name>
+            <impactparameter>0.3600</impactparameter>
+            <inclination>87.750</inclination>
+            <period>1.42266000</period>
+            <radius>0.118</radius>
+            <semimajoraxis>0.023000</semimajoraxis>
+            <temperature>1232</temperature>
+            <temperaturemax>36</temperaturemax>
+            <temperaturemin>-36</temperaturemin>
+        </planet>
+    </star>
+</system>
+

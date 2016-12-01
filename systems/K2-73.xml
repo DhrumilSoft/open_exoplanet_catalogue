@@ -1,0 +1,30 @@
+<system>
+    <name>K2-73</name>
+    <declination>-09d03m21.9s</declination>
+    <rightascension>22h20m06.11s</rightascension>
+    <star>
+        <name>K2-73</name>
+        <magH>10.382</magH>
+        <magHmax>0.021</magHmax>
+        <magHmin>0.021</magHmin>
+        <magJ>10.695</magJ>
+        <magJmax>0.026</magJmax>
+        <magJmin>0.026</magJmin>
+        <magK>10.322</magK>
+        <magKmax>0.021</magKmax>
+        <magKmin>0.021</magKmin>
+        <magV>11.345</magV>
+        <magVmax>0.146</magVmax>
+        <magVmin>0.146</magVmin>
+        <mass>1.05</mass>
+        <radius>1.06</radius>
+        <temperature>5922.00</temperature>
+        <planet>
+            <name>K2-73 b</name>
+            <period>7.49543000</period>
+            <radius>0.219</radius>
+            <semimajoraxis>0.076190</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

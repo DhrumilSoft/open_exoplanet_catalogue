@@ -1,0 +1,20 @@
+<system>
+    <name>KOI-682</name>
+    <declination>+43 16 10</declination>
+    <rightascension>3 17 48</rightascension>
+    <star>
+        <name>KOI-682</name>
+        <magV>14.2</magV>
+        <mass>1.02</mass>
+        <metallicity>0.34</metallicity>
+        <radius>1.17</radius>
+        <temperature>5589.0</temperature>
+        <planet>
+            <name>KOI-682 b</name>
+            <inclination>89.851</inclination>
+            <period>562.70945</period>
+            <radius>0.88</radius>
+        </planet>
+    </star>
+</system>
+

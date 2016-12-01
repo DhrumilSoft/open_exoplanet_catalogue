@@ -1,0 +1,27 @@
+<system>
+    <name>HATS-20</name>
+    <declination>-46 35 26</declination>
+    <distance>454.0</distance>
+    <rightascension>2 12 5</rightascension>
+    <star>
+        <name>HATS-20</name>
+        <age>6.4</age>
+        <magV>13.77</magV>
+        <mass>0.91</mass>
+        <metallicity>0.03</metallicity>
+        <radius>0.892</radius>
+        <spectraltype>G9V</spectraltype>
+        <temperature>5406.0</temperature>
+        <planet>
+            <name>HATS-20 b</name>
+            <eccentricity>0.5</eccentricity>
+            <impactparameter>0.551</impactparameter>
+            <inclination>87.16</inclination>
+            <mass>0.273</mass>
+            <period>3.7992969</period>
+            <radius>0.776</radius>
+            <semimajoraxis>0.04619</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

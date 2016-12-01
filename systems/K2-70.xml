@@ -1,0 +1,30 @@
+<system>
+    <name>K2-70</name>
+    <declination>-10d05m05.8s</declination>
+    <rightascension>22h33m54.19s</rightascension>
+    <star>
+        <name>K2-70</name>
+        <magH>10.935</magH>
+        <magHmax>0.021</magHmax>
+        <magHmin>0.021</magHmin>
+        <magJ>11.355</magJ>
+        <magJmax>0.023</magJmax>
+        <magJmin>0.023</magJmin>
+        <magK>10.853</magK>
+        <magKmax>0.021</magKmax>
+        <magKmin>0.021</magKmin>
+        <magV>12.989</magV>
+        <magVmax>0.030</magVmax>
+        <magVmin>0.030</magVmin>
+        <mass>0.94</mass>
+        <radius>0.93</radius>
+        <temperature>5622.00</temperature>
+        <planet>
+            <name>K2-70 b</name>
+            <period>13.97896000</period>
+            <radius>0.258</radius>
+            <semimajoraxis>0.111200</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

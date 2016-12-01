@@ -1,0 +1,36 @@
+<system>
+    <name>K2-83</name>
+    <declination>+15d33m32.0s</declination>
+    <rightascension>03h59m36.37s</rightascension>
+    <star>
+        <name>K2-83</name>
+        <magH>10.945</magH>
+        <magHmax>0.022</magHmax>
+        <magHmin>0.022</magHmin>
+        <magJ>11.599</magJ>
+        <magJmax>0.021</magJmax>
+        <magJmin>0.021</magJmin>
+        <magK>10.765</magK>
+        <magKmax>0.018</magKmax>
+        <magKmin>0.018</magKmin>
+        <magV>14.514</magV>
+        <magVmax>0.020</magVmax>
+        <magVmin>0.020</magVmin>
+        <mass>0.48</mass>
+        <radius>0.42</radius>
+        <temperature>3910.00</temperature>
+        <planet>
+            <name>K2-83 b</name>
+            <period>2.74697000</period>
+            <radius>0.111</radius>
+            <semimajoraxis>0.030140</semimajoraxis>
+        </planet>
+        <planet>
+            <name>K2-83 c</name>
+            <period>9.99767000</period>
+            <radius>0.132</radius>
+            <semimajoraxis>0.071310</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
