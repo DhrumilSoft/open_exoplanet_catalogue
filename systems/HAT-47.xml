@@ -1,0 +1,26 @@
+<system>
+    <name>HAT-47</name>
+    <declination>+30 22 38</declination>
+    <distance>268.0</distance>
+    <rightascension>0 26 32</rightascension>
+    <star>
+        <name>HAT-47</name>
+        <age>1.5</age>
+        <magV>10.6</magV>
+        <mass>1.387</mass>
+        <metallicity>0.0</metallicity>
+        <radius>1.515</radius>
+        <temperature>6703.0</temperature>
+        <planet>
+            <name>HAT-47 b</name>
+            <eccentricity>0.0</eccentricity>
+            <impactparameter>0.794</impactparameter>
+            <inclination>84.8</inclination>
+            <mass>0.206</mass>
+            <period>4.732182</period>
+            <radius>1.313</radius>
+            <semimajoraxis>0.0615</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

@@ -1,0 +1,17 @@
+<system>
+    <name>HR 7329</name>
+    <declination>-54 25 26</declination>
+    <distance>48.0</distance>
+    <rightascension>3 14 49</rightascension>
+    <star>
+        <name>HR 7329</name>
+        <age>0.03</age>
+        <magV>5.0</magV>
+        <spectraltype>A0V</spectraltype>
+        <planet>
+            <name>HR 7329</name>
+            <mass>35.0</mass>
+        </planet>
+    </star>
+</system>
+

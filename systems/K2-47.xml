@@ -1,0 +1,30 @@
+<system>
+    <name>K2-47</name>
+    <declination>+02d46m50.6s</declination>
+    <rightascension>11h14m19.82s</rightascension>
+    <star>
+        <name>K2-47</name>
+        <magH>11.856</magH>
+        <magHmax>0.026</magHmax>
+        <magHmin>0.026</magHmin>
+        <magJ>12.295</magJ>
+        <magJmax>0.023</magJmax>
+        <magJmin>0.023</magJmin>
+        <magK>11.735</magK>
+        <magKmax>0.027</magKmax>
+        <magKmin>0.027</magKmin>
+        <magV>14.085</magV>
+        <magVmax>0.110</magVmax>
+        <magVmin>0.110</magVmin>
+        <mass>0.75</mass>
+        <radius>0.76</radius>
+        <temperature>5054.00</temperature>
+        <planet>
+            <name>K2-47 b</name>
+            <period>31.63720000</period>
+            <radius>0.169</radius>
+            <semimajoraxis>0.177900</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

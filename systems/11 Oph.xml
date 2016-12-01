@@ -1,0 +1,21 @@
+<system>
+    <name>11 Oph</name>
+    <declination>-24 5 14</declination>
+    <distance>145.0</distance>
+    <rightascension>3 44 44</rightascension>
+    <star>
+        <name>11 Oph</name>
+        <age>0.011</age>
+        <magK>14.03</magK>
+        <mass>0.0162</mass>
+        <spectraltype>M9</spectraltype>
+        <temperature>2375.0</temperature>
+        <planet>
+            <name>11 Oph b</name>
+            <mass>21.0</mass>
+            <period>730000.0</period>
+            <semimajoraxis>243.0</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

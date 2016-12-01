@@ -1,0 +1,25 @@
+<system>
+    <name>PZ Tel</name>
+    <declination>-50 11 50</declination>
+    <distance>51.49</distance>
+    <rightascension>3 9 51</rightascension>
+    <star>
+        <name>PZ Tel</name>
+        <age>0.023</age>
+        <alternatenames>HD 174429, HIP 92680</alternatenames>
+        <magV>8.43</magV>
+        <mass>1.13</mass>
+        <metallicity>0.05</metallicity>
+        <radius>1.23</radius>
+        <spectraltype>G6.5</spectraltype>
+        <temperature>5338.0</temperature>
+        <planet>
+            <name>PZ Tel b</name>
+            <eccentricity>0.62</eccentricity>
+            <mass>62.0</mass>
+            <semimajoraxis>20.0</semimajoraxis>
+            <temperature>2987.0</temperature>
+        </planet>
+    </star>
+</system>
+

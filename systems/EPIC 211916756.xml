@@ -1,0 +1,20 @@
+<system>
+    <name>EPIC 211916756</name>
+    <declination>+19 59 36</declination>
+    <rightascension>1 26 15</rightascension>
+    <star>
+        <name>EPIC 211916756</name>
+        <age>0.8</age>
+        <mass>0.43</mass>
+        <radius>0.44</radius>
+        <temperature>3410.0</temperature>
+        <planet>
+            <name>EPIC 211916756 b</name>
+            <eccentricity>0.16</eccentricity>
+            <inclination>89.4</inclination>
+            <period>10.135091</period>
+            <radius>0.33</radius>
+        </planet>
+    </star>
+</system>
+

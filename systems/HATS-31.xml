@@ -1,0 +1,26 @@
+<system>
+    <name>HATS-31</name>
+    <declination>-24 26 39</declination>
+    <distance>872.0</distance>
+    <rightascension>2 8 48</rightascension>
+    <star>
+        <name>HATS-31</name>
+        <age>4.3</age>
+        <magV>13.1</magV>
+        <mass>1.275</mass>
+        <metallicity>0.0</metallicity>
+        <radius>1.87</radius>
+        <temperature>6050.0</temperature>
+        <planet>
+            <name>HATS-31 b</name>
+            <eccentricity>0.233</eccentricity>
+            <impactparameter>0.48</impactparameter>
+            <inclination>85.0</inclination>
+            <mass>0.88</mass>
+            <period>3.37796</period>
+            <radius>1.64</radius>
+            <semimajoraxis>0.0478</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

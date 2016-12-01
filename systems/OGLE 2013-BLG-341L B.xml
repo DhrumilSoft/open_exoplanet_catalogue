@@ -1,0 +1,16 @@
+<system>
+    <name>OGLE 2013-BLG-341L B</name>
+    <declination>-29d50m46.0s</declination>
+    <distance>1161.00</distance>
+    <rightascension>17h52m07.49s</rightascension>
+    <star>
+        <name>OGLE 2013-BLG-341L B</name>
+        <mass>0.15</mass>
+        <planet>
+            <name>OGLE 2013-BLG-341L B b</name>
+            <mass>0.00730</mass>
+            <semimajoraxis>0.883000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
