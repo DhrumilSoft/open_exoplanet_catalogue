@@ -1,0 +1,12 @@
+<system>
+  <name>2M 0441+23</name>
+  <declination>+23 2 51</declination>
+  <distance>140.0</distance>
+  <rightascension>1 47 58</rightascension>
+  <star>
+    <name>2M 0441+23</name>
+    <planet>
+      <name>2M 0441+23 b</name>
+</planet>
+</star>
+</system>
