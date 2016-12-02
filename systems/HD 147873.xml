@@ -1,0 +1,33 @@
+<system>
+  <name>HD 147873</name>
+  <declination>CONFLICT OCCURS</declination>
+  <distance>104.93</distance>
+  <rightascension>CONFLICT OCCURS</rightascension>
+  <star>
+    <name>HD 147873</name>
+    <age>4.000</age>
+    <magH>6.698</magH>
+    <magHmax>0.026</magHmax>
+    <magHmin>0.026</magHmin>
+    <magJ>6.908</magJ>
+    <magJmax>0.018</magJmax>
+    <magJmin>0.018</magJmin>
+    <magK>6.581</magK>
+    <magKmax>0.029</magKmax>
+    <magKmin>0.029</magKmin>
+    <magV>7.960</magV>
+    <mass>1.38</mass>
+    <metallicity>CONFLICT OCCURS</metallicity>
+    <radius>2.29</radius>
+    <spectraltype>G1V</spectraltype>
+    <temperature>5972.00</temperature>
+    <planet>
+      <name>HD 147873 c</name>
+      <eccentricity>0.230000</eccentricity>
+      <mass>2.3</mass>
+      <periastron>CONFLICT OCCURS</periastron>
+      <period>491.54000000</period>
+      <semimajoraxis>1.360000</semimajoraxis>
+</planet>
+</star>
+</system>
