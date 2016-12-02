@@ -1,0 +1,25 @@
+<system>
+  <name>HATS-24</name>
+  <declination>-62 45 50</declination>
+  <distance>510.0</distance>
+  <rightascension>3 59 16</rightascension>
+  <star>
+    <name>HATS-24</name>
+    <age>0.88</age>
+    <magV>12.8</magV>
+    <mass>1.212</mass>
+    <metallicity>0.0</metallicity>
+    <radius>1.172</radius>
+    <temperature>6346.0</temperature>
+    <planet>
+      <name>HATS-24 b</name>
+      <eccentricity>0.24</eccentricity>
+      <impactparameter>0.276</impactparameter>
+      <inclination>86.6</inclination>
+      <mass>2.44</mass>
+      <period>1.3484954</period>
+      <radius>1.487</radius>
+      <semimajoraxis>0.02547</semimajoraxis>
+</planet>
+</star>
+</system>
