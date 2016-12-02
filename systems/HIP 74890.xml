@@ -1,0 +1,14 @@
+<system>
+  <name>HIP 74890</name>
+  <star>
+    <name>HIP 74890</name>
+    <planet>
+      <name>HIP 74890 b</name>
+      <eccentricity>0.070000</eccentricity>
+      <mass>2.4</mass>
+      <periastron>181.9000</periastron>
+      <period>822.30000000</period>
+      <semimajoraxis>2.100000</semimajoraxis>
+</planet>
+</star>
+</system>
