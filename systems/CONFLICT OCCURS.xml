@@ -1,0 +1,43 @@
+<system>
+  <name>CONFLICT OCCURS</name>
+  <declination>CONFLICT OCCURS</declination>
+  <distance>185.00</distance>
+  <rightascension>CONFLICT OCCURS</rightascension>
+  <star>
+    <name>CONFLICT OCCURS</name>
+    <age>2.600</age>
+    <magH>10.168</magH>
+    <magHmax>0.041</magHmax>
+    <magHmin>0.041</magHmin>
+    <magJ>10.622</magJ>
+    <magJmax>0.035</magJmax>
+    <magJmin>0.035</magJmin>
+    <magK>10.062</magK>
+    <magKmax>0.034</magKmax>
+    <magKmin>0.034</magKmin>
+    <magV>12.526</magV>
+    <magVmax>0.044</magVmax>
+    <magVmin>0.044</magVmin>
+    <mass>0.94</mass>
+    <metallicity>[Fe/H]</metallicity>
+    <radius>0.86</radius>
+    <spectraltype>G7V</spectraltype>
+    <temperature>5358.00</temperature>
+    <planet>
+      <name>K2-29 b</name>
+      <alternatenames>WASP-152 b, EPIC 211089792 b</alternatenames>
+      <eccentricity>0.066000</eccentricity>
+      <impactparameter>0.5800</impactparameter>
+      <inclination>86.656</inclination>
+      <longitude>1.5</longitude>
+      <mass>0.73000</mass>
+      <periastron>132.0000</periastron>
+      <period>3.25883210</period>
+      <radius>1.190</radius>
+      <semimajoraxis>0.042170</semimajoraxis>
+      <temperature>1171</temperature>
+      <temperaturemax>10</temperaturemax>
+      <temperaturemin>-10</temperaturemin>
+</planet>
+</star>
+</system>
