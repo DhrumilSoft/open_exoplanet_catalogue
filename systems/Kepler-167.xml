@@ -53,5 +53,11 @@
   <planet>
       <name>Kepler-167 e</name>
 </planet>
+  <planet>
+      <name>Kepler-167 d</name>
+</planet>
+  <planet>
+      <name>Kepler-167 e</name>
+</planet>
   </star>
 </system>

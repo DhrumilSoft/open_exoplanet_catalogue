@@ -1,5 +1,8 @@
 <system>
   <name>HATS-20</name>
+  <declination>-46 35 26</declination>
+  <distance>454.0</distance>
+  <rightascension>2 12 5</rightascension>
   <star>
     <name>HATS-20</name>
     <planet>
