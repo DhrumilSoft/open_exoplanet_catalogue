@@ -1,0 +1,35 @@
+<system>
+    <name>HD 214823</name>
+    <declination>9999999999</declination>
+    <distance>97.47</distance>
+    <rightascension>9999999999</rightascension>
+    <star>
+        <name>HD 214823</name>
+        <age>2.700</age>
+        <magH>6.697</magH>
+        <magHmax>0.021</magHmax>
+        <magHmin>0.021</magHmin>
+        <magJ>6.952</magJ>
+        <magJmax>0.020</magJmax>
+        <magJmin>0.020</magJmin>
+        <magK>6.640</magK>
+        <magKmax>0.016</magKmax>
+        <magKmin>0.016</magKmin>
+        <magV>999999999999</magV>
+        <magVmax>0.011</magVmax>
+        <magVmin>0.011</magVmin>
+        <mass>1.22</mass>
+        <metallicity>99999999999</metallicity>
+        <spectraltype>G0V</spectraltype>
+        <temperature>6215.00</temperature>
+        <planet>
+            <name>HD 214823 b</name>
+            <eccentricity>0.154000</eccentricity>
+            <mass>19.2</mass>
+            <periastron>125.9000</periastron>
+            <period>1877.00000000</period>
+            <semimajoraxis>3.180000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
