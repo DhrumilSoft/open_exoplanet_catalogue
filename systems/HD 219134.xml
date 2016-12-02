@@ -156,5 +156,11 @@
 			<lastupdate>15/10/20</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
-	</star>
+	<planet>
+      <name>HD 219134 h</name>
+</planet>
+  <planet>
+      <name>HD 219134 h</name>
+</planet>
+  </star>
 </system>

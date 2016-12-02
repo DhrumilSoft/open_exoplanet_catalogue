@@ -44,5 +44,11 @@
 			<lastupdate>14/11/19</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
-	</star>
+	<planet>
+      <name>HD 75784 c</name>
+</planet>
+  <planet>
+      <name>HD 75784 c</name>
+</planet>
+  </star>
 </system>

@@ -36,5 +36,11 @@
 			<lastupdate>15/11/23</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
-	</star>
+	<planet>
+      <name>BD+20 274 c</name>
+</planet>
+  <planet>
+      <name>BD+20 274 c</name>
+</planet>
+  </star>
 </system>

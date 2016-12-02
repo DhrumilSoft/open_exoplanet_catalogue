@@ -45,5 +45,11 @@
 			<discoveryyear>2003</discoveryyear>
 			<temperature>314.7</temperature>
 		</planet>
-	</star>
+	<planet>
+      <name>HD 82943 d</name>
+</planet>
+  <planet>
+      <name>HD 82943 d</name>
+</planet>
+  </star>
 </system>

@@ -36,7 +36,13 @@
 				<mass>0.386</mass>
 				<radius>0.422</radius>
 				<spectraltype>M</spectraltype>
-			</star>
+			<planet>
+      <name>Kepler-64 (AB) b</name>
+</planet>
+      <planet>
+      <name>Kepler-64 (AB) b</name>
+</planet>
+      </star>
 			<planet>
 				<name>PH-1 A(ab) b</name>
 				<name>PH-1 b</name>
@@ -67,8 +73,8 @@
 			<name>PH-1 B</name>
 			<name>Kepler-64 B</name>
 			<name>KIC 4862625 B</name>
-			<separation unit="arcsec" upperlimit="0.4" />
-			<separation unit="AU" upperlimit="60" />
+			<separation unit="arcsec" upperlimit="0.4"/>
+			<separation unit="AU" upperlimit="60"/>
 			<star>
 				<name>PH-1 Ba</name>
 				<name>Kepler-64 Ba</name>

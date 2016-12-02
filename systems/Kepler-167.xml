@@ -47,5 +47,17 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
+	<planet>
+      <name>Kepler-167 d</name>
+</planet>
+  <planet>
+      <name>Kepler-167 e</name>
+</planet>
+  <planet>
+      <name>Kepler-167 d</name>
+</planet>
+  <planet>
+      <name>Kepler-167 e</name>
+</planet>
+  </star>
 </system>

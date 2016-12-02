@@ -138,6 +138,12 @@
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
 			</planet>
-		</star>
+		<planet>
+      <name>HD 162004 b</name>
+</planet>
+    <planet>
+      <name>HD 162004 b</name>
+</planet>
+    </star>
 	</binary>
 </system>
