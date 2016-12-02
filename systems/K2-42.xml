@@ -1,0 +1,14 @@
+<system>
+  <name>K2-42</name>
+  <declination>-05d10m18.9s</declination>
+  <rightascension>11h46m39.77s</rightascension>
+  <star>
+    <name>K2-42</name>
+    <planet>
+      <name>K2-42 b</name>
+      <period>6.68796000</period>
+      <radius>0.192</radius>
+      <semimajoraxis>0.061700</semimajoraxis>
+</planet>
+</star>
+</system>
