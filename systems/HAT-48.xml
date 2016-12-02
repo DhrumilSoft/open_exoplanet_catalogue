@@ -1,0 +1,15 @@
+<system>
+  <name>HAT-48</name>
+  <star>
+    <name>HAT-48</name>
+    <age>4.7</age>
+    <magV>12.16</magV>
+    <mass>1.099</mass>
+    <metallicity>0.02</metallicity>
+    <radius>1.223</radius>
+    <temperature>5946.0</temperature>
+    <planet>
+      <name>HAT-48 b</name>
+</planet>
+</star>
+</system>
