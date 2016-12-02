@@ -1,0 +1,12 @@
+<system>
+  <name>WASP-113</name>
+  <declination>CONFLICT OCCURS</declination>
+  <distance>360.00</distance>
+  <rightascension>CONFLICT OCCURS</rightascension>
+  <star>
+    <name>WASP-113</name>
+    <planet>
+      <name>WASP-113 b</name>
+</planet>
+</star>
+</system>

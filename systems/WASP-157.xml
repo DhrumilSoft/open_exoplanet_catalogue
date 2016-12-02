@@ -1,0 +1,11 @@
+<system>
+  <name>WASP-157</name>
+  <declination>CONFLICT OCCURS</declination>
+  <rightascension>CONFLICT OCCURS</rightascension>
+  <star>
+    <name>WASP-157</name>
+    <planet>
+      <name>WASP-157 b</name>
+</planet>
+</star>
+</system>
