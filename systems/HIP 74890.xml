@@ -1,0 +1,33 @@
+<system>
+    <name>HIP 74890</name>
+    <declination>CONFLICT OCCURS</declination>
+    <distance>222</distance>
+    <rightascension>222</rightascension>
+    <star>
+        <name>HIP 74890</name>
+        <magH>4.808</magH>
+        <magHmax>0.020</magHmax>
+        <magHmin>0.020</magHmin>
+        <magJ>5.286</magJ>
+        <magJmax>0.017</magJmax>
+        <magJmin>0.017</magJmin>
+        <magK>4.639</magK>
+        <magKmax>0.016</magKmax>
+        <magKmin>0.016</magKmin>
+        <magV>7.050</magV>
+        <mass>1.74</mass>
+        <metallicity>1222</metallicity>
+        <radius>5.77</radius>
+        <spectraltype>K1III</spectraltype>
+        <temperature>4850.00</temperature>
+        <planet>
+            <name>HIP 74890 b</name>
+            <eccentricity>0.070000</eccentricity>
+            <mass>2.4</mass>
+            <periastron>181.9000</periastron>
+            <period>822.30000000</period>
+            <semimajoraxis>2.100000</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
