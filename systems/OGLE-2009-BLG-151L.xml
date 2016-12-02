@@ -1,0 +1,12 @@
+<system>
+  <name>OGLE-2009-BLG-151L</name>
+  <declination>-29 3 21</declination>
+  <distance>390.0</distance>
+  <rightascension>3 59 4</rightascension>
+  <star>
+    <name>OGLE-2009-BLG-151L</name>
+    <planet>
+      <name>OGLE-2009-BLG-151L b</name>
+</planet>
+</star>
+</system>
