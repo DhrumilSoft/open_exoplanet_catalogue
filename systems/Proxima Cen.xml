@@ -1,0 +1,16 @@
+<system>
+  <name>Proxima Cen</name>
+  <star>
+    <name>Proxima Cen</name>
+    <planet>
+      <name>Proxima Cen b</name>
+      <eccentricity>0.350000</eccentricity>
+      <periastron>310.0000</periastron>
+      <period>11.18600000</period>
+      <semimajoraxis>0.048500</semimajoraxis>
+      <temperature>234</temperature>
+      <temperaturemax>6</temperaturemax>
+      <temperaturemin>-14</temperaturemin>
+</planet>
+</star>
+</system>
