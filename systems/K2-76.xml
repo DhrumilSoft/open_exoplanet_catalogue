@@ -1,0 +1,26 @@
+<system>
+  <name>K2-76</name>
+  <declination>-06d05m12.0s</declination>
+  <rightascension>22h28m25.34s</rightascension>
+  <star>
+    <name>K2-76</name>
+    <magH>11.506</magH>
+    <magHmax>0.026</magHmax>
+    <magHmin>0.026</magHmin>
+    <magJ>11.854</magJ>
+    <magJmax>0.023</magJmax>
+    <magJmin>0.023</magJmin>
+    <magK>11.484</magK>
+    <magKmax>0.023</magKmax>
+    <magKmin>0.023</magKmin>
+    <mass>1.02</mass>
+    <radius>1.28</radius>
+    <temperature>5806.00</temperature>
+    <planet>
+      <name>K2-76 b</name>
+      <period>23.97260000</period>
+      <radius>0.990</radius>
+      <semimajoraxis>0.163800</semimajoraxis>
+</planet>
+</star>
+</system>
