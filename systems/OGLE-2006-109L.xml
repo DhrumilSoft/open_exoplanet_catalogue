@@ -1,0 +1,14 @@
+<system>
+  <name>OGLE-2006-109L</name>
+  <declination>-30 5 16</declination>
+  <distance>1510.0</distance>
+  <rightascension>3 59 46</rightascension>
+  <star>
+    <name>OGLE-2006-109L</name>
+    <magH>17.17</magH>
+    <mass>0.51</mass>
+    <planet>
+      <name>OGLE-2006-109L b</name>
+</planet>
+</star>
+</system>

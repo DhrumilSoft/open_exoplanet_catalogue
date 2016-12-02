@@ -1,0 +1,17 @@
+<system>
+  <name>BD+26 1888</name>
+  <declination>+26 53 22</declination>
+  <distance>38.0</distance>
+  <rightascension>2 30 25</rightascension>
+  <star>
+    <name>BD+26 1888</name>
+    <magV>9.76</magV>
+    <mass>0.76</mass>
+    <metallicity>0.02</metallicity>
+    <spectraltype>K7</spectraltype>
+    <temperature>4748.0</temperature>
+    <planet>
+      <name>BD+26 1888 b</name>
+</planet>
+</star>
+</system>
