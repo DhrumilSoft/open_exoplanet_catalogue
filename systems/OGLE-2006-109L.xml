@@ -1,0 +1,13 @@
+<system>
+  <name>OGLE-2006-109L</name>
+  <star>
+    <name>OGLE-2006-109L</name>
+    <planet>
+      <name>OGLE-2006-109L b</name>
+      <inclination>64.0</inclination>
+      <mass>0.727</mass>
+      <period>1790.0</period>
+      <semimajoraxis>2.3</semimajoraxis>
+</planet>
+</star>
+</system>
