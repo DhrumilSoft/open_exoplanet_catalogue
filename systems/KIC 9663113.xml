@@ -45,5 +45,8 @@
 			<lastupdate>16/01/09</lastupdate>
 			<list>Controversial</list>
 		</planet>
-	</star>
+	<planet>
+      <name>Kepler-458 c</name>
+</planet>
+  </star>
 </system>

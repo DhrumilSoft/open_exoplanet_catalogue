@@ -117,5 +117,8 @@
 			<temperature>706.0</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
+	<planet>
+      <name>Kepler-20 g</name>
+</planet>
+  </star>
 </system>
