@@ -1,0 +1,38 @@
+<system>
+  <name>HD 3167</name>
+  <declination>CONFLICT OCCURS</declination>
+  <distance>45.80</distance>
+  <rightascension>CONFLICT OCCURS</rightascension>
+  <star>
+    <name>HD 3167</name>
+    <age>0.83</age>
+    <magH>7.203</magH>
+    <magHmax>0.038</magHmax>
+    <magHmin>0.038</magHmin>
+    <magJ>7.548</magJ>
+    <magJmax>0.032</magJmax>
+    <magJmin>0.032</magJmin>
+    <magK>7.066</magK>
+    <magKmax>0.020</magKmax>
+    <magKmin>0.020</magKmin>
+    <magV>8.940</magV>
+    <magVmax>0.020</magVmax>
+    <magVmin>0.020</magVmin>
+    <mass>0.88</mass>
+    <metallicity>CONFLICT OCCURS</metallicity>
+    <radius>0.83</radius>
+    <spectraltype>G</spectraltype>
+    <temperature>CONFLICT OCCURS</temperature>
+    <planet>
+      <name>HD 3167 b</name>
+      <alternatenames>HIP 2736 b, EPIC 220383386 b</alternatenames>
+      <impactparameter>CONFLICT OCCURS</impactparameter>
+      <inclination>CONFLICT OCCURS</inclination>
+      <period>CONFLICT OCCURS</period>
+      <radius>CONFLICT OCCURS</radius>
+      <temperature>1860</temperature>
+      <temperaturemax>160</temperaturemax>
+      <temperaturemin>-160</temperaturemin>
+</planet>
+</star>
+</system>
