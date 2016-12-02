@@ -1,0 +1,36 @@
+<system>
+    <name>K2-90</name>
+    <declination>+22d28m21.5s</declination>
+    <rightascension>03h56m36.58s</rightascension>
+    <star>
+        <name>K2-90</name>
+        <magH>10.495</magH>
+        <magHmax>0.027</magHmax>
+        <magHmin>0.027</magHmin>
+        <magJ>11.168</magJ>
+        <magJmax>0.023</magJmax>
+        <magJmin>0.023</magJmin>
+        <magK>10.360</magK>
+        <magKmax>0.020</magKmax>
+        <magKmin>0.020</magKmin>
+        <magV>13.855</magV>
+        <magVmax>0.040</magVmax>
+        <magVmin>0.040</magVmin>
+        <mass>0.56</mass>
+        <radius>0.49</radius>
+        <temperature>4136.00</temperature>
+        <planet>
+            <name>K2-90 b</name>
+            <period>13.73110000</period>
+            <radius>0.182</radius>
+            <semimajoraxis>0.092600</semimajoraxis>
+        </planet>
+        <planet>
+            <name>K2-90 c</name>
+            <period>2.90032000</period>
+            <radius>0.091</radius>
+            <semimajoraxis>0.032800</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

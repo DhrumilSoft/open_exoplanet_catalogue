@@ -1,0 +1,17 @@
+<system>
+    <name>KIC 9413313</name>
+    <declination>+46 54 13</declination>
+    <rightascension>3 17 57</rightascension>
+    <star>
+        <name>KIC 9413313</name>
+        <magV>14.5</magV>
+        <mass>0.95</mass>
+        <metallicity>0.02</metallicity>
+        <radius>1.45</radius>
+        <temperature>5359.0</temperature>
+        <planet>
+            <name>KIC 9413313 b</name>
+        </planet>
+    </star>
+</system>
+

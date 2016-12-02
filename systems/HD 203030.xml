@@ -1,0 +1,31 @@
+<system>
+    <name>HD 203030</name>
+    <declination>+26d13m50.0s</declination>
+    <distance>40.85</distance>
+    <rightascension>21h18m58.22s</rightascension>
+    <star>
+        <name>HD 203030</name>
+        <age>0.220</age>
+        <magH>6.737</magH>
+        <magHmax>0.018</magHmax>
+        <magHmin>0.018</magHmin>
+        <magJ>7.068</magJ>
+        <magJmax>0.019</magJmax>
+        <magJmin>0.019</magJmin>
+        <magK>6.653</magK>
+        <magKmax>0.022</magKmax>
+        <magKmin>0.022</magKmin>
+        <magV>8.425</magV>
+        <magVmax>0.013</magVmax>
+        <magVmin>0.013</magVmin>
+        <planet>
+            <name>HD 203030 b</name>
+            <mass>24.09000</mass>
+            <semimajoraxis>487.100000</semimajoraxis>
+            <temperature>1206</temperature>
+            <temperaturemax>74</temperaturemax>
+            <temperaturemin>-116</temperaturemin>
+        </planet>
+    </star>
+</system>
+

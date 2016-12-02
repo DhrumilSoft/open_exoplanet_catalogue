@@ -1,0 +1,23 @@
+<system>
+    <name>HD 77065</name>
+    <declination>+21 27 13</declination>
+    <distance>31.7</distance>
+    <rightascension>2 30 8</rightascension>
+    <star>
+        <name>HD 77065</name>
+        <magV>8.8</magV>
+        <mass>0.75</mass>
+        <metallicity>-0.51</metallicity>
+        <spectraltype>G5</spectraltype>
+        <temperature>4990.0</temperature>
+        <planet>
+            <name>HD 77065 b</name>
+            <eccentricity>0.69397</eccentricity>
+            <mass>41.0</mass>
+            <periastron>105.972</periastron>
+            <period>119.1135</period>
+            <semimajoraxis>0.438</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

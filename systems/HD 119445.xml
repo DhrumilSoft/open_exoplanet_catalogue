@@ -1,0 +1,22 @@
+<system>
+    <name>HD 119445</name>
+    <declination>+42 40 27</declination>
+    <rightascension>2 17 5</rightascension>
+    <star>
+        <name>HD 119445</name>
+        <magV>6.304</magV>
+        <mass>3.9</mass>
+        <metallicity>0.04</metallicity>
+        <radius>20.5</radius>
+        <spectraltype>G6</spectraltype>
+        <temperature>5083.0</temperature>
+        <planet>
+            <name>HD 119445 b</name>
+            <eccentricity>0.082</eccentricity>
+            <mass>37.6</mass>
+            <period>410.2</period>
+            <semimajoraxis>1.71</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

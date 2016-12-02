@@ -1,0 +1,25 @@
+<system>
+    <name>WASP-86</name>
+    <declination>+37 34 13</declination>
+    <rightascension>3 58 26</rightascension>
+    <star>
+        <name>WASP-86</name>
+        <age>0.8</age>
+        <magV>10.66</magV>
+        <mass>1.239</mass>
+        <metallicity>0.23</metallicity>
+        <radius>1.291</radius>
+        <spectraltype>F7</spectraltype>
+        <temperature>6330.0</temperature>
+        <planet>
+            <name>WASP-86 b</name>
+            <impactparameter>0.027</impactparameter>
+            <inclination>89.85</inclination>
+            <mass>0.821</mass>
+            <period>5.031555</period>
+            <radius>0.632</radius>
+            <semimajoraxis>0.0617</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

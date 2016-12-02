@@ -1,0 +1,30 @@
+<system>
+    <name>K2-91</name>
+    <declination>+24d12m18.4s</declination>
+    <rightascension>04h12m52.33s</rightascension>
+    <star>
+        <name>K2-91</name>
+        <magH>10.835</magH>
+        <magHmax>0.022</magHmax>
+        <magHmin>0.022</magHmin>
+        <magJ>11.433</magJ>
+        <magJmax>0.021</magJmax>
+        <magJmin>0.021</magJmin>
+        <magK>10.571</magK>
+        <magKmax>0.021</magKmax>
+        <magKmin>0.021</magKmin>
+        <magV>15.572</magV>
+        <magVmax>0.055</magVmax>
+        <magVmin>0.055</magVmin>
+        <mass>0.29</mass>
+        <radius>0.28</radius>
+        <temperature>3622.00</temperature>
+        <planet>
+            <name>K2-91 b</name>
+            <period>1.41954900</period>
+            <radius>0.098</radius>
+            <semimajoraxis>0.016400</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

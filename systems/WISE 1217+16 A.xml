@@ -1,0 +1,26 @@
+<system>
+    <name>WISE 1217+16 A</name>
+    <declination>+16 27 40</declination>
+    <distance>10.0</distance>
+    <rightascension>2 3 60</rightascension>
+    <star>
+        <name>WISE 1217+16 A</name>
+        <age>6.0</age>
+        <magJ>18.0</magJ>
+        <magV>19.0</magV>
+        <mass>0.03</mass>
+        <radius>0.091</radius>
+        <spectraltype>T8.5</spectraltype>
+        <temperature>575.0</temperature>
+        <planet>
+            <name>WISE 1217+16A b</name>
+            <alternatenames>WISE J1217+1626B, WISEPC J121756.91+162640.2B</alternatenames>
+            <mass>22.0</mass>
+            <period>47400.0</period>
+            <radius>0.96</radius>
+            <semimajoraxis>7.6</semimajoraxis>
+            <temperature>450.0</temperature>
+        </planet>
+    </star>
+</system>
+

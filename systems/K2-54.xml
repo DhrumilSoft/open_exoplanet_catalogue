@@ -1,0 +1,30 @@
+<system>
+    <name>K2-54</name>
+    <declination>-17d32m38.4s</declination>
+    <rightascension>22h32m13.00s</rightascension>
+    <star>
+        <name>K2-54</name>
+        <magH>11.231</magH>
+        <magHmax>0.044</magHmax>
+        <magHmin>0.044</magHmin>
+        <magJ>11.850</magJ>
+        <magJmax>0.037</magJmax>
+        <magJmin>0.037</magJmin>
+        <magK>11.075</magK>
+        <magKmax>0.043</magKmax>
+        <magKmin>0.043</magKmin>
+        <magV>14.042</magV>
+        <magVmax>0.010</magVmax>
+        <magVmin>0.010</magVmin>
+        <mass>0.42</mass>
+        <radius>0.38</radius>
+        <temperature>3798.00</temperature>
+        <planet>
+            <name>K2-54 b</name>
+            <period>9.78430000</period>
+            <radius>0.103</radius>
+            <semimajoraxis>0.067100</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
