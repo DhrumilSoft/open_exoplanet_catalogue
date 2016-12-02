@@ -1,0 +1,17 @@
+<system>
+    <name>USco1610-1913</name>
+    <declination>-19 13 9</declination>
+    <rightascension>3 42 45</rightascension>
+    <star>
+        <name>USco1610-1913</name>
+        <magJ>13.9</magJ>
+        <spectraltype>K7</spectraltype>
+        <temperature>4140.0</temperature>
+        <planet>
+            <name>USco1610-1913 b</name>
+            <mass>20.0</mass>
+            <semimajoraxis>9999999</semimajoraxis>
+        </planet>
+    </star>
+</system>
+
