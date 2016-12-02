@@ -1,0 +1,15 @@
+<system>
+  <name>K2-37</name>
+  <star>
+    <name>K2-37</name>
+    <planet>
+      <name>K2-37 d</name>
+</planet>
+<planet>
+      <name>K2-37 b</name>
+</planet>
+  <planet>
+      <name>K2-37 c</name>
+</planet>
+  </star>
+</system>

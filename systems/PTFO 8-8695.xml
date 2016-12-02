@@ -24,7 +24,7 @@
 			<period errorminus="0.000040" errorplus="0.000040">0.448413</period>
 			<inclination errorminus="3.7" errorplus="3.7">61.8</inclination>
 			<semimajoraxis>0.00800</semimajoraxis>
-			<mass upperlimit="3" />
+			<mass upperlimit="3"/>
 			<radius errorminus="0.21" errorplus="0.21">1.91</radius>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
@@ -33,5 +33,8 @@
 			<list>Controversial</list>
 			<description>PTFO 8-8695 b is a Jupiter-sized candidate planet orbiting a T Tauri star. The orbit is rapidly precessing, causing it to stop transiting during part of its orbital evolution.</description>
 		</planet>
-	</star>
+	<planet>
+      <name>CVSO 30 c</name>
+</planet>
+  </star>
 </system>
