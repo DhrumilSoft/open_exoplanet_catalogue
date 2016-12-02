@@ -1,0 +1,18 @@
+<system>
+  <name>K2-72</name>
+  <star>
+    <name>K2-72</name>
+    <planet>
+      <name>K2-72 c</name>
+</planet>
+<planet>
+      <name>K2-72 b</name>
+</planet>
+  <planet>
+      <name>K2-72 d</name>
+</planet>
+  <planet>
+      <name>K2-72 e</name>
+</planet>
+  </star>
+</system>

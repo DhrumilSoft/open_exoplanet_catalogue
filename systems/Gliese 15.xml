@@ -61,7 +61,10 @@
 				<discoveryyear>2014</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
 			</planet>
-		</star>
+		<planet>
+      <name>GJ 15 A b</name>
+</planet>
+    </star>
 		<star>
 			<name>Gliese 15 B</name>
 			<name>GJ 15 B</name>
