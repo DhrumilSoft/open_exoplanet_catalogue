@@ -1,0 +1,26 @@
+<system>
+    <name>KELT-16</name>
+    <declination>+32 40 40</declination>
+    <distance>365.0</distance>
+    <rightascension>3 30 31</rightascension>
+    <star>
+        <name>KELT-16</name>
+        <age>2.9</age>
+        <alternatenames> TYC 2688-1839-1,  2MASS J20570443+3139397</alternatenames>
+        <magV>11.9</magV>
+        <mass>1.211</mass>
+        <metallicity>-0.002</metallicity>
+        <radius>1.36</radius>
+        <spectraltype>F7V</spectraltype>
+        <temperature>6236.0</temperature>
+        <planet>
+            <name>KELT-16 b</name>
+            <alternatenames> 2MASS J20570443+3139397 b,  TYC 2688-1839-1 b</alternatenames>
+            <mass>2.75</mass>
+            <period>0.9689951</period>
+            <radius>1.415</radius>
+            <semimajoraxis>0.02044</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

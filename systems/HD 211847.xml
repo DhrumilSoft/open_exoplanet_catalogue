@@ -1,0 +1,24 @@
+<system>
+    <name>HD 211847</name>
+    <declination>-41 26 48</declination>
+    <distance>50.6</distance>
+    <rightascension>4 43 29</rightascension>
+    <star>
+        <name>HD 211847</name>
+        <age>3.0</age>
+        <magV>8.78</magV>
+        <mass>0.94</mass>
+        <metallicity>-0.08</metallicity>
+        <spectraltype>G5V</spectraltype>
+        <temperature>5715.0</temperature>
+        <planet>
+            <name>HD 211847 b</name>
+            <eccentricity>0.685</eccentricity>
+            <mass>19.2</mass>
+            <periastron>159.2</periastron>
+            <period>7930.0</period>
+            <semimajoraxis>7.5</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

@@ -1,0 +1,27 @@
+<system>
+    <name>WASP-132</name>
+    <declination>-46 10 33</declination>
+    <distance>120.0</distance>
+    <rightascension>2 25 4</rightascension>
+    <star>
+        <name>WASP-132</name>
+        <age>0.5</age>
+        <magV>12.4</magV>
+        <mass>0.8</mass>
+        <metallicity>0.22</metallicity>
+        <radius>0.74</radius>
+        <spectraltype>K4</spectraltype>
+        <temperature>4775.0</temperature>
+        <planet>
+            <name>WASP-132 b</name>
+            <eccentricity>0.0</eccentricity>
+            <impactparameter>0.14</impactparameter>
+            <inclination>89.6</inclination>
+            <mass>0.41</mass>
+            <period>7.133521</period>
+            <radius>0.87</radius>
+            <semimajoraxis>0.067</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

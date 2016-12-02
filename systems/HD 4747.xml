@@ -1,0 +1,25 @@
+<system>
+    <name>HD 4747</name>
+    <declination>-23 13 45</declination>
+    <distance>18.69</distance>
+    <rightascension>0 8 14</rightascension>
+    <star>
+        <name>HD 4747</name>
+        <age>3.3</age>
+        <magV>7.15</magV>
+        <mass>0.82</mass>
+        <metallicity>-0.22</metallicity>
+        <radius>0.79</radius>
+        <spectraltype>G9V</spectraltype>
+        <temperature>5340.0</temperature>
+        <planet>
+            <name>HD 4747 b</name>
+            <eccentricity>0.74</eccentricity>
+            <inclination>66.8</inclination>
+            <mass>60.2</mass>
+            <period>13835.67</period>
+            <semimajoraxis>16.4</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

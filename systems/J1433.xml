@@ -1,0 +1,19 @@
+<system>
+    <name>J1433</name>
+    <declination>+10 11 23</declination>
+    <rightascension>2 26 33</rightascension>
+    <star>
+        <name>J1433</name>
+        <alternatenames>SDSS J143317.78+101123.</alternatenames>
+        <mass>0.8</mass>
+        <spectraltype>WD</spectraltype>
+        <temperature>13200.0</temperature>
+        <planet>
+            <name>J1433 b</name>
+            <inclination>84.36</inclination>
+            <mass>57.1</mass>
+            <period>0.054</period>
+        </planet>
+    </star>
+</system>
+

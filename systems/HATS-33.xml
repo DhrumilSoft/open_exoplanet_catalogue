@@ -1,0 +1,26 @@
+<system>
+    <name>HATS-33</name>
+    <declination>-55 20 48</declination>
+    <distance>355.0</distance>
+    <rightascension>3 16 25</rightascension>
+    <star>
+        <name>HATS-33</name>
+        <age>3.0</age>
+        <magV>11.9</magV>
+        <mass>1.062</mass>
+        <metallicity>0.29</metallicity>
+        <radius>1.022</radius>
+        <temperature>5659.0</temperature>
+        <planet>
+            <name>HATS-33 b</name>
+            <eccentricity>0.08</eccentricity>
+            <impactparameter>0.33</impactparameter>
+            <inclination>87.62</inclination>
+            <mass>1.192</mass>
+            <period>2.5495551</period>
+            <radius>1.23</radius>
+            <semimajoraxis>0.03727</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

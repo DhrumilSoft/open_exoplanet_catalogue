@@ -1,0 +1,16 @@
+<system>
+    <name>MOA-2007-BLG-197L</name>
+    <declination>-32 57 47</declination>
+    <distance>4170.0</distance>
+    <rightascension>3 1 11</rightascension>
+    <star>
+        <name>MOA-2007-BLG-197L</name>
+        <mass>0.82</mass>
+        <planet>
+            <name>MOA-2007-BLG-197L b</name>
+            <mass>41.0</mass>
+            <semimajoraxis>4.29</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

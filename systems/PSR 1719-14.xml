@@ -1,0 +1,20 @@
+<system>
+    <name>PSR 1719-14</name>
+    <declination>-15 38 1</declination>
+    <distance>1200.0</distance>
+    <rightascension>3 53 12</rightascension>
+    <star>
+        <name>PSR 1719-14</name>
+        <age>12.5</age>
+        <mass>1.4</mass>
+        <planet>
+            <name>PSR 1719-14 b</name>
+            <eccentricity>0.06</eccentricity>
+            <mass>1.0</mass>
+            <period>0.090706293</period>
+            <radius>0.4</radius>
+            <semimajoraxis>0.0044</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

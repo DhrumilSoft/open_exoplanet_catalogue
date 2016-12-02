@@ -1,0 +1,17 @@
+<system>
+    <name>OGLE-2011-BLG-0420L</name>
+    <declination>-30 49 30</declination>
+    <distance>1990.0</distance>
+    <rightascension>3 58 29</rightascension>
+    <star>
+        <name>OGLE-2011-BLG-0420L</name>
+        <magV>14.7</magV>
+        <mass>0.025</mass>
+        <planet>
+            <name>OGLE-2011-BLG-0420L b</name>
+            <mass>9.4</mass>
+            <semimajoraxis>0.19</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

@@ -1,0 +1,23 @@
+<system>
+    <name>KIC 9662267</name>
+    <declination>+46 21 0</declination>
+    <rightascension>3 18 52</rightascension>
+    <star>
+        <name>KIC 9662267</name>
+        <magV>15.3</magV>
+        <mass>0.86</mass>
+        <metallicity>-0.03</metallicity>
+        <radius>0.89</radius>
+        <temperature>5602.0</temperature>
+        <planet>
+            <name>KIC 9662267 b</name>
+            <eccentricity>0.11</eccentricity>
+            <inclination>89.82</inclination>
+            <periastron>1.7</periastron>
+            <period>466.202</period>
+            <radius>0.34</radius>
+            <semimajoraxis>1.12</semimajoraxis>
+        </planet>
+    </star>
+</system>
+

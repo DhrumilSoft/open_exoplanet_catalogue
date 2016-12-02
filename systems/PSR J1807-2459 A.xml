@@ -1,0 +1,18 @@
+<system>
+    <name>PSR J1807-2459 A</name>
+    <declination>-25 60 53</declination>
+    <distance>2790.0</distance>
+    <rightascension>2 41 13</rightascension>
+    <star>
+        <name>PSR J1807-2459 A</name>
+        <mass>1.4</mass>
+        <spectraltype>PSR</spectraltype>
+        <planet>
+            <name>PSR J1807-2459 A b</name>
+            <eccentricity>0.0</eccentricity>
+            <mass>9.4</mass>
+            <period>0.07</period>
+        </planet>
+    </star>
+</system>
+
