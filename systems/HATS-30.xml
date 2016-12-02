@@ -1,0 +1,39 @@
+<system>
+  <name>HATS-30</name>
+  <declination>CONFLICT OCCURS</declination>
+  <distance>339.00</distance>
+  <rightascension>CONFLICT OCCURS</rightascension>
+  <star>
+    <name>HATS-30</name>
+    <age>2.300</age>
+    <magH>10.826</magH>
+    <magHmax>0.022</magHmax>
+    <magHmin>0.022</magHmin>
+    <magJ>11.129</magJ>
+    <magJmax>0.021</magJmax>
+    <magJmin>0.021</magJmin>
+    <magK>10.793</magK>
+    <magKmax>0.017</magKmax>
+    <magKmin>0.017</magKmin>
+    <magV>12.192</magV>
+    <magVmax>0.010</magVmax>
+    <magVmin>0.010</magVmin>
+    <mass>CONFLICT OCCURS</mass>
+    <metallicity>CONFLICT OCCURS</metallicity>
+    <radius>CONFLICT OCCURS</radius>
+    <temperature>5943.00</temperature>
+    <planet>
+      <name>HATS-30 b</name>
+      <eccentricity>CONFLICT OCCURS</eccentricity>
+      <impactparameter>0.4870</impactparameter>
+      <inclination>86.840</inclination>
+      <mass>0.70600</mass>
+      <period>3.17435160</period>
+      <radius>1.175</radius>
+      <semimajoraxis>0.043540</semimajoraxis>
+      <temperature>1414</temperature>
+      <temperaturemax>32</temperaturemax>
+      <temperaturemin>-32</temperaturemin>
+</planet>
+</star>
+</system>
