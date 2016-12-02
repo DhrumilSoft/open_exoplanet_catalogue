@@ -1,0 +1,13 @@
+<system>
+  <name>Kepler-1647 (AB)</name>
+  <star>
+    <name>Kepler-1647 (AB)</name>
+    <magV>13.78</magV>
+    <mass>2.1885</mass>
+    <radius>1.79</radius>
+    <temperature>6210.0</temperature>
+    <planet>
+      <name>Kepler-1647 (AB) b</name>
+</planet>
+</star>
+</system>
