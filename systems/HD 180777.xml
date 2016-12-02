@@ -1,0 +1,22 @@
+<system>
+  <name>HD 180777</name>
+  <declination>+77 34 38</declination>
+  <distance>27.3</distance>
+  <rightascension>3 12 32</rightascension>
+  <star>
+    <name>HD 180777</name>
+    <magV>5.11</magV>
+    <mass>1.7</mass>
+    <spectraltype>A9V</spectraltype>
+    <temperature>7250.0</temperature>
+    <planet>
+      <name>HD 180777 b</name>
+      <alternatenames>59 Draconis b</alternatenames>
+      <eccentricity>0.2</eccentricity>
+      <mass>25.0</mass>
+      <periastron>56.0</periastron>
+      <period>28.44</period>
+      <semimajoraxis>0.22</semimajoraxis>
+</planet>
+</star>
+</system>
