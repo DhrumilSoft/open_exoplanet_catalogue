@@ -1,0 +1,19 @@
+<system>
+  <name>HAT-48</name>
+  <declination>+31 38 33</declination>
+  <distance>305.0</distance>
+  <rightascension>0 30 39</rightascension>
+  <star>
+    <name>HAT-48</name>
+    <planet>
+      <name>HAT-48 b</name>
+      <eccentricity>0.0</eccentricity>
+      <impactparameter>0.281</impactparameter>
+      <inclination>86.8</inclination>
+      <mass>0.168</mass>
+      <period>4.40865</period>
+      <radius>1.131</radius>
+      <semimajoraxis>0.0543</semimajoraxis>
+</planet>
+</star>
+</system>

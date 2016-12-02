@@ -1,0 +1,17 @@
+<system>
+  <name>HD 5583</name>
+  <declination>CONFLICT OCCURS</declination>
+  <distance>221.00</distance>
+  <rightascension>CONFLICT OCCURS</rightascension>
+  <star>
+    <name>HD 5583</name>
+    <planet>
+      <name>HD 5583 b</name>
+      <eccentricity>0.076000</eccentricity>
+      <mass>5.78</mass>
+      <periastron>12.0000</periastron>
+      <period>139.35000000</period>
+      <semimajoraxis>0.530000</semimajoraxis>
+</planet>
+</star>
+</system>

@@ -1,0 +1,21 @@
+<system>
+  <name>KIC 10255705 	</name>
+  <declination>+47 23 39</declination>
+  <rightascension>3 9 34</rightascension>
+  <star>
+    <name>KIC 10255705 	</name>
+    <magV>13.5</magV>
+    <mass>1.1</mass>
+    <metallicity>-0.13</metallicity>
+    <radius>2.12</radius>
+    <temperature>5030.0</temperature>
+    <planet>
+      <name>KIC 10255705 b</name>
+      <eccentricity>0.0</eccentricity>
+      <inclination>89.75</inclination>
+      <period>707.3793</period>
+      <radius>0.65</radius>
+      <semimajoraxis>1.6</semimajoraxis>
+</planet>
+</star>
+</system>
