@@ -1,0 +1,21 @@
+<system>
+  <name>HD169142</name>
+  <declination>-30 47 50</declination>
+  <distance>145.0</distance>
+  <rightascension>3 4 5</rightascension>
+  <star>
+    <name>HD169142</name>
+    <age>12.0</age>
+    <magJ>7.31</magJ>
+    <magV>8.16</magV>
+    <mass>1.65</mass>
+    <radius>1.6</radius>
+    <spectraltype>A7V</spectraltype>
+    <temperature>7650.0</temperature>
+    <planet>
+      <name>HD169142 b</name>
+      <mass>30.0</mass>
+      <semimajoraxis>22.7</semimajoraxis>
+</planet>
+</star>
+</system>
