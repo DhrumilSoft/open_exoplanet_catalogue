@@ -1,0 +1,30 @@
+<system>
+  <name>HIP 41378</name>
+  <declination>CONFLICT OCCURS</declination>
+  <distance>CONFLICT OCCURS</distance>
+  <rightascension>CONFLICT OCCURS</rightascension>
+  <star>
+    <name>HIP 41378</name>
+    <magH>7.786</magH>
+    <magHmax>0.038</magHmax>
+    <magHmin>0.038</magHmin>
+    <magJ>7.982</magJ>
+    <magJmax>0.025</magJmax>
+    <magJmin>0.025</magJmin>
+    <magK>7.722</magK>
+    <magKmax>0.031</magKmax>
+    <magKmin>0.031</magKmin>
+    <magV>CONFLICT OCCURS</magV>
+    <mass>1.15</mass>
+    <metallicity>CONFLICT OCCURS</metallicity>
+    <radius>1.40</radius>
+    <temperature>6199.00</temperature>
+    <planet>
+      <name>HIP 41378 c</name>
+      <impactparameter>0.5300</impactparameter>
+      <inclination>89.580</inclination>
+      <period>31.69780000</period>
+      <radius>0.228</radius>
+</planet>
+</star>
+</system>
