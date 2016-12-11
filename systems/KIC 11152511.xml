@@ -1,0 +1,17 @@
+<system>
+        <name>KIC 11152511</name>
+        <declination>+49 44 30</declination>
+        <rightascension>3 19 43</rightascension>
+        <star>
+                <name>KIC 11152511</name>
+                <magV>14.0</magV>
+                <mass>1.01</mass>
+                <metallicity>-0.1</metallicity>
+                <radius>2.08</radius>
+                <temperature>5273.0</temperature>
+                <planet>
+                        <name>KIC 11152511 b</name>
+                </planet>
+        </star>
+</system>
+
