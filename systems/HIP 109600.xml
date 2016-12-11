@@ -1,0 +1,13 @@
+<system>
+        <name>HIP 109600</name>
+        <declination>CONFLICT OCCURS</declination>
+        <distance>58.60</distance>
+        <rightascension>CONFLICT OCCURS</rightascension>
+        <star>
+                <name>HIP 109600</name>
+                <planet>
+                        <name>HIP 109600 b</name>
+                </planet>
+        </star>
+</system>
+

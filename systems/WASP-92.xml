@@ -1,0 +1,26 @@
+<system>
+        <name>WASP-92</name>
+        <star>
+                <name>WASP-92</name>
+                <age>2.290</age>
+                <magH>11.579</magH>
+                <magHmax>0.015</magHmax>
+                <magHmin>0.015</magHmin>
+                <magJ>11.834</magJ>
+                <magJmax>0.015</magJmax>
+                <magJmin>0.015</magJmin>
+                <magK>11.519</magK>
+                <magKmax>0.015</magKmax>
+                <magKmin>0.015</magKmin>
+                <magV>13.180</magV>
+                <mass>1.19</mass>
+                <metallicity>CONFLICT OCCURS</metallicity>
+                <radius>CONFLICT OCCURS</radius>
+                <spectraltype>F7</spectraltype>
+                <temperature>6280.00</temperature>
+                <planet>
+                        <name>CONFLICT OCCURS</name>
+                </planet>
+        </star>
+</system>
+
